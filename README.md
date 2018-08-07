@@ -1,5 +1,5 @@
 # Indigo
-Dark purple theme that you can customize
+A dark purple theme that you can customize!
 
 How to edit:
 
