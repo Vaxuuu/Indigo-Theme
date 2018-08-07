@@ -455,3 +455,12 @@
 	border: solid 1px var(--accent-color);
 	border-radius: 0;
 }
+.autocompleteRowVertical-q1K4ky {
+	background-color: var(--main-color);
+}
+.theme-dark .selectorSelected-1_M1WV {
+	background-color: var(--secondary-color-transparent);
+        border: solid 1px var(--accent-color);
+        border-radius: 0;
+}
+
