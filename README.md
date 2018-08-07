@@ -1,4 +1,6 @@
-# Nier-Automata-Theme
-A Nier:Automata Theme 
+# Indigo
+Dark purple theme that you can customize
 
-If you have any problems with this theme, please contact me on Discord (Vaxu#9418)
+How to edit:
+
+Just simply edit the colors in the :root! Preferably add semi-transparent versions using rgba in the transparent ones.
