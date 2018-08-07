@@ -93,6 +93,21 @@
 .name-3YKhmS {
 	text-align: center;
 }
+.popout-open .header-2o-2hj {
+	background-color: var(--main-color);
+}
+.theme-dark .menu-Sp6bN1 {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .item-1GzJrl:hover {
+	background-color: var(--secondary-color-transparent);
+        border-radius: 0;
+}
+.theme-dark .item-1GzJrl {
+	background-color: var(--main-color);
+}
 .header-2o-2hj {
 	background-color: var(--main-color);
 	border-bottom: solid 1.5px;
