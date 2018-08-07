@@ -385,6 +385,38 @@
         border-radius:0;
 }
 
+/*File sending*/
+.uploadModal-2ifh8j, .uploadModal-2ifh8j .footer-3mqk7D {
+	background-color: var(--main-color);
+}
+.uploadModal-2ifh8j .inner-3nWsbo, .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
+	border-color: var(--secondary-color);
+	border-radius: 0;
+}
+.uploadModal-2ifh8j .footer-3mqk7D .button-primary:hover{
+	background-color: var(--secondary-color);
+	border: solid 1px var(--secondary-color);
+	border-radius:0;
+	color: white;
+}
+.uploadModal-2ifh8j .footer-3mqk7D .button-primary {
+	background-color: var(--accent-color);
+	border-radius: 0;
+	color: white;
+	margin-left: 30px;
+}
+.uploadModal-2ifh8j .footer-3mqk7D .button {
+	background-color: var(--accent-color);
+	border-radius: 0;
+	border: solid 1px var(--secondary-color);
+}
+.uploadModal-2ifh8j .footer-3mqk7D .button:hover {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+	border: solid 1px var(--accent-color);
+	text-decoration: none;
+}
+
 /*Search*/
 .resultsGroup-r_nuzN {
 	background-color: var(--main-color);
