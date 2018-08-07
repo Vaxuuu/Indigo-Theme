@@ -571,3 +571,12 @@
 .theme-dark .ui-standard-sidebar-view, .theme-dark .modal-3HD5ck {
 	background-color: var(--main-color);
 }
+.theme-dark .container-3cGP6G {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+        border-radius: 0;
+}
+.create-guild-container.deprecated .form.deprecated .form-inner, .create-guild-container.deprecated .action  {
+	background-color: var(--main-color);
+	border-radius: 0;
+}
