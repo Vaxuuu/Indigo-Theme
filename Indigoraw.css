@@ -405,10 +405,6 @@
 .theme-dark .topSectionNormal-2-vo2m {
 	background-color: var(--main-color);
 }
-.inner-1JeGVc {
-	border: solid 2px var(--secondary-color);
-        border-radius:0;
-}
 .tabBarContainer-1s1u-z {
 	border-color: var(--secondary-color);
 }
@@ -580,4 +576,8 @@
 	background-color: var(--main-color);
 	border-radius: 0;
 	border-color: var(--secondary-color);
+}
+.root-SR8cQa {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
 }
