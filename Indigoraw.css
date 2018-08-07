@@ -556,3 +556,11 @@
 	border-color: var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .quickswitcher-3JagVE {
+	background-color: var(--main-color);
+}
+.theme-dark .input-2VB9rf {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
