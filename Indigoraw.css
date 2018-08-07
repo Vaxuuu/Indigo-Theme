@@ -445,7 +445,7 @@
 	text-decoration: none;
 }
 
-/*Search*/
+/*Other Popouts*/
 .resultsGroup-r_nuzN {
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
@@ -579,4 +579,5 @@
 .create-guild-container.deprecated .form.deprecated .form-inner, .create-guild-container.deprecated .action  {
 	background-color: var(--main-color);
 	border-radius: 0;
+	border-color: var(--secondary-color);
 }
