@@ -381,8 +381,11 @@
 	background-color: var(--main-color);
 }
 .inner-1JeGVc {
-	border: solid 1px var(--secondary-color);
+	border: solid 2px var(--secondary-color);
         border-radius:0;
+}
+.tabBarContainer-1s1u-z {
+	border-color: var(--secondary-color);
 }
 
 /*File sending*/
