@@ -463,4 +463,7 @@
         border: solid 1px var(--accent-color);
         border-radius: 0;
 }
-
+.autocompleteInner-zh20B_ {
+	border-radius: 0;
+	border: solid 1px var(--secondary-color);
+}
