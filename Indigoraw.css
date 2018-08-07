@@ -532,4 +532,5 @@
 .autocompleteInner-zh20B_ {
 	border-radius: 0;
 	border: solid 1px var(--secondary-color);
+	padding: 0;
 }
