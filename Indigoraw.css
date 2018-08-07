@@ -15,6 +15,11 @@
 	display: none;
 }
 
+/*Hide blocked messages*/
+.theme-dark .messageGroupBlocked-3wrQQX {
+    display: none;
+}
+
 /*Getting Mentioned*/
 .isMentionedCozy-3isp7y:after {
 	background-color: var(--accent-color);
@@ -142,6 +147,7 @@
 }
 .unreadBar-17qm9c {
 	background-color: var(--accent-color-transparent);
+	border-radius: 0;
 }
 
 /*User Tab Under Channel List*/
@@ -171,7 +177,8 @@
 }
 .theme-dark .typing-2GQL18 {
 	background-color: var(--main-color);
-	bottom: 3px;
+	bottom: 4px;
+	left: 10px;
 }
 .theme-dark .messagesWrapper-3lZDfY {
 	background-color: var(--main-color);
