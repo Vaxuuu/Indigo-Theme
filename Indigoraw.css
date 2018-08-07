@@ -549,3 +549,10 @@
 	border: solid 1px var(--secondary-color);
 	padding: 0;
 }
+.bd-modal-wrapper .bd-modal-body, .bd-modal-wrapper .header {
+	background-color: var(--main-color);
+}
+.bd-modal-wrapper .bd-modal-inner {
+	border-color: var(--secondary-color);
+	border-radius: 0;
+}
