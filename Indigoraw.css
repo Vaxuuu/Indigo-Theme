@@ -11,7 +11,7 @@
 	border: solid 1px var(--secondary-color);
 	background-color: var(--main-color);
 }
-.tooltip.tooltip-black.tooltip-top:after, .tooltip.tooltip-black.tooltip-bottom:after {
+.tooltip.tooltip-black.tooltip-top:after, .tooltip.tooltip-black.tooltip-bottom:after, .tooltip.tooltip-black.tooltip-right:after, .tooltip.tooltip-black.tooltip-left:after {
 	display: none;
 }
 
@@ -341,6 +341,17 @@
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, #bd-settings-sidebar .ui-tab-bar-item:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
+}
+.header-1R_AjF {
+	background-color: var(--main-color);
+        border-bottom: solid 1px var(--secondary-color)
+}
+.theme-dark .footer-2yfCgX {
+	background-color: var(--main-color);
+        border-top: solid 1px var(--secondary-color);
+}
+.theme-dark .cardPrimaryEditable-3KtE4g {
+	border-color: var(--secondary-color);
 }
 
 /*User Popout*/
