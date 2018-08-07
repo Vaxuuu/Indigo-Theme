@@ -568,3 +568,6 @@
 	background-color: var(--main-color);
         border-top: solid 1px var(--secondary-color);
 }
+.theme-dark .ui-standard-sidebar-view, .theme-dark .modal-3HD5ck {
+	background-color: var(--main-color);
+}
