@@ -537,12 +537,12 @@
 	border-radius: 0;
 	border-color: var(--secondary-color);
 }
-.lookInverted-2D7oAl.colorGreen-29iAKY {
+.lookInverted-2D7oAl.colorGreen-29iAKY, .lookInverted-2D7oAl.colorBrand-3pXr91 {
 	background-color: var(--secondary-color);
 	border: solid 1px var(--accent-color);
 	border-radius:0;
 }
-.lookInverted-2D7oAl.colorGreen-29iAKY:hover {
+.lookInverted-2D7oAl.colorGreen-29iAKY:hover, .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
 	background-color: var(--accent-color);
 	border: solid 1px var(--secondary-color);
 }
