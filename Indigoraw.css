@@ -685,6 +685,39 @@
         border-radius: 0;
 }
 
+/*Search Function*/
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+	background-color: var(--accent-color-transparent);
+}
+.theme-dark .search-l1Wz-Q {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
+.theme-dark .search-results-wrap .search-header {
+	background-color: var(--main-color);
+	border-left: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
+	border-radius:0;
+}
+.search-results-wrap .results-wrapper {
+	border-left: solid 1px var(--secondary-color);
+}
+.theme-dark .search-results-wrap .channel-separator .channel-name{
+	background-color: var(--secondary-color);
+}
+.theme-dark .search-results-wrap .search-result .hit {
+	background-color: var(--main-color);
+	border: 1px solid var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .search-results-wrap .search-result:after, .theme-dark .search-results-wrap .search-result:before {
+    display: none;
+}
+.theme-dark .search-results-wrap .search-result .hit {
+	box-shadow: none;
+}
+
 /*Other Popouts*/
 .theme-dark .searchPopout-1vUlP3 {
 	background-color: var(--main-color);
@@ -802,32 +835,6 @@
 }
 .theme-dark .option-96V44q.selected-rZcOL- {
 	background-color: var(--secondary-color-transparent);
-}
-.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
-	background-color: var(--accent-color-transparent);
-}
-.theme-dark .search-l1Wz-Q {
-	background-color: var(--secondary-color-transparent);
-	border: solid 1px var(--accent-color);
-	border-radius: 0;
-}
-.theme-dark .search-results-wrap .search-header {
-	background-color: var(--main-color);
-	border-left: solid 1px var(--secondary-color);
-	border-bottom: solid 1px var(--secondary-color);
-	border-radius:0;
-}
-.search-results-wrap .results-wrapper {
-	border-left: solid 1px var(--secondary-color);
-}
-.theme-dark .search-results-wrap .channel-separator .channel-name{
-	background-color: var(--secondary-color);
-}
-.theme-dark .search-results-wrap .search-result .hit {
-	background-color: var(--main-color);
-}
-.theme-dark .search-results-wrap .search-result:after, .theme-dark .search-results-wrap .search-result:before {
-    display: none;
 }
 .bd-modal-wrapper .footer button:hover {
 	background-color: var(--secondary-color);
