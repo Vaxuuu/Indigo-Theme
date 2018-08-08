@@ -316,6 +316,9 @@
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
+.theme-dark .member-3W1lQa {
+	border-radius: 0;
+}
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
