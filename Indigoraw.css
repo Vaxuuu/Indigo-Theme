@@ -223,7 +223,6 @@
 	background-color: var(--main-color);
 	margin: 0;
 	top: 10px;
-	border-bottom: solid 1px var(--secondary-color);
 }
 .theme-dark .inner-zqa7da {
 	left: 10px;
@@ -234,6 +233,7 @@
 }
 .theme-dark .channelTextArea-rNsIhG {
 	border-top: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
 }
 .theme-dark .typing-2GQL18 {
 	background-color: var(--main-color);
