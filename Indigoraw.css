@@ -802,3 +802,10 @@
 .theme-dark .search-results-wrap .search-result:after, .theme-dark .search-results-wrap .search-result:before {
     display: none;
 }
+.bd-modal-wrapper .footer button:hover {
+	background-color: var(--secondary-color);
+}
+.bd-modal-wrapper .footer button{
+	background-color: var(--accent-color);
+	border-radius: 0;
+}
