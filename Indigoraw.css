@@ -427,6 +427,9 @@
 	background-color: var(--accent-color);
 	border-radius: 0;
 }
+.theme-dark .questionMark-CWEQZn:hover {
+	background-color: var(--accent-color);
+}
 .lookFilled-1Gx00P.colorGreen-29iAKY {
 	background-color: var(--accent-color);
 	border-radius: 0;
