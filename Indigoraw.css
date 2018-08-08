@@ -749,3 +749,7 @@
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .reactionSelected-1pqISm {
+	background-color: var(--secondary-color-transparent);
+        border-radius: 0;
+}
