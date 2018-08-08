@@ -185,12 +185,15 @@
 	margin-right: 4px;
 }
 .unread-1Dp-OI {
-	border-radius: 1px;
+	border-radius: 0;
 	background-color: var(--secondary-color);
 }
 .unreadBar-17qm9c {
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
+}
+.unreadBar-17qm9c:hover {
+	background-color: var(--accent-color-transparent);
 }
 .wrapper-2NJDcI {
 	background-color: var(--accent-color-transparent);
