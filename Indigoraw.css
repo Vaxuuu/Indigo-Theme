@@ -21,6 +21,7 @@
 .tooltip.tooltip-black{
 	border: solid 1px var(--secondary-color);
 	background-color: var(--main-color);
+	border-radius: 0;
 }
 .tooltip.tooltip-black.tooltip-top:after, .tooltip.tooltip-black.tooltip-bottom:after, .tooltip.tooltip-black.tooltip-right:after, .tooltip.tooltip-black.tooltip-left:after {
 	display: none;
@@ -96,9 +97,7 @@
 }
 .theme-dark .guildsWrapper-5TJh6A {
 	background-color: var(--main-color);
-	border-style: solid;
-	border-right-width: 1.5px; 
-	border-color: var(--secondary-color);
+	border: solid 1px var(--secondary-color);
 }
 .theme-dark .friendsOnline-_wi_fM, .theme-light .friendsOnline-_wi_fM {
     color: white;
@@ -136,8 +135,8 @@
 }
 .header-2o-2hj {
 	background-color: var(--main-color);
-	border-bottom: solid 1.5px;
-	border-bottom-color: var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
+	border-top: solid 1px var(--secondary-color);
 	height: 37px;
 }
 .header-2o-2hj:hover {
@@ -211,8 +210,9 @@
 	height: 86px;
 	background-color: var(--main-color);
 	margin: 0;
-	border-top: solid 1.5px var(--secondary-color);
+	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
 }
 
 /*Chat*/
@@ -229,7 +229,8 @@
 	border: solid 1px var(--accent-color);
 }
 .theme-dark .channelTextArea-rNsIhG {
-	border-top: solid 1.5px var(--secondary-color);
+	border-top: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
 }
 .theme-dark .typing-2GQL18 {
 	background-color: var(--main-color);
@@ -268,7 +269,8 @@
 .theme-dark .title-3qD0b- {
 	background-color: var(--main-color);
 	height: 36px;
-	border-bottom: solid 1.5px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
+	border-top: solid 1px var(--secondary-color);
 }
 .theme-dark .hasMore-3e72_v button {
 	background-color: var(--main-color);
@@ -299,7 +301,7 @@
 /*User List*/
 .theme-dark .members-1998pB {
 	background-color: var(--main-color);
-	border-left: solid 1.5px var(--secondary-color); 
+	border-left: solid 1px var(--secondary-color); 
 }
 .theme-dark .membersGroup-v9BXpm  {
 	text-align: center;
