@@ -28,6 +28,7 @@
 }
 .theme-dark .isMentioned-N-h9aa {
 	background-color: var(--accent-color-transparent);
+	border-radius: 0;
 }
 
 /*TitleBar*/
@@ -413,6 +414,9 @@
 }
 .topSectionSpotify-1lI0-P {
 	background-color: var(--accent-color);
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+	background-color: var(--main-color);
 }
 
 /*File sending*/
