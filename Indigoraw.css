@@ -269,8 +269,10 @@
 	border-radius: 0;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
-	background-color: transparent;
-	color: var(--accent-color);
+	background-color: var(--secondary-color);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+	color: white;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div {
 	background-color: var(--accent-color);
