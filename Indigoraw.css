@@ -221,7 +221,7 @@
 	border-bottom: solid 1px var(--secondary-color);
 }
 
-/* */
+/*Chat*/
 .theme-dark .chat-3bRxxu form{
 	background-color: var(--main-color);
 	margin: 0;
@@ -851,4 +851,7 @@
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
+}
+.theme-dark .noChannel-Z1DQK7 {
+	background-color: var(--main-color);
 }
