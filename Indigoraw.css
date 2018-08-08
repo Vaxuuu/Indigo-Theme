@@ -749,3 +749,19 @@
 	background-color: var(--secondary-color-transparent);
         border-radius: 0;
 }
+.theme-dark .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug {
+	background-color: var(--main-color);
+	box-shadow: none;
+}
+.theme-dark .jumpButton-3DTcS_ {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
+.theme-dark .messageGroupWrapper-o-Zw7G {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.messageGroupWrapperOffsetCorrection-phOU-k {
+	background-color: var(--main-color);
+	margin-right: -10px;
+}
