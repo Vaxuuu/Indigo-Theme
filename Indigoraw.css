@@ -521,18 +521,25 @@
 .tabBarContainer-1s1u-z {
 	border-color: var(--secondary-color);
 }
-.topSectionPlaying-1J5E4n {
+.topSectionPlaying-1J5E4n, .topSectionSpotify-1lI0-P {
 	background-color: var(--secondary-color);
 }
-.topSectionSpotify-1lI0-P {
-	background-color: var(--accent-color);
-}
+
 .theme-dark .ui-standard-sidebar-view .content-region {
 	background-color: var(--main-color);
 }
 .theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
 	border-radius: 0;
 	border-color: var(--secondary-color);
+}
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+	background-color: var(--secondary-color);
+	border: solid 1px var(--accent-color);
+	border-radius:0;
+}
+.lookInverted-2D7oAl.colorGreen-29iAKY:hover {
+	background-color: var(--accent-color);
+	border: solid 1px var(--secondary-color);
 }
 
 /*File sending*/
@@ -561,9 +568,9 @@
 	border: solid 1px var(--secondary-color);
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button:hover {
-	background-color: var(--secondary-color);
+	background-color: var(--accent-color);
 	border-radius: 0;
-	border: solid 1px var(--accent-color);
+	border: solid 1px var(--secondary-color-color);
 	text-decoration: none;
 }
 
