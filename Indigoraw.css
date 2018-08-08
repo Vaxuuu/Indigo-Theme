@@ -307,8 +307,7 @@
 	 font-size: 13px;
 	 background-color: var(--secondary-color-transparent);
 	 border: solid 1px var(--secondary-color);
-	 border-right: 0;
-	 border-left: 0;
+	 margin-left: 5px;
 	 padding-top: 10px;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
