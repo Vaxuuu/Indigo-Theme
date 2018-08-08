@@ -4,11 +4,12 @@
 }
 *::-webkit-scrollbar-track-piece{
     background-color: transparent !important;
+    border: 0 !important;	
 }
 *::-webkit-scrollbar-thumb {
     background-color: var(--secondary-color) !important;
     border-radius: 0 !important;
-    border: solid 1px var(--accent-color) !important;
+    border: solid 1px var(--secondary-color-transparent) !important;
 }
 
 /*Highlights*/
@@ -110,6 +111,9 @@
 	left: -0.5px;
 	background-color: var(--secondary-color);
 }
+.theme-dark .guild-1EfMGQ.audio-3vVhBi .guildInner-3DSoA4:after, .theme-dark .guild-1EfMGQ.video-15yGu3 .guildInner-3DSoA4:after {
+	background-color: var(--accent-color);
+}
 
 /*Server Name, Channel List*/
 .name-3YKhmS {
@@ -189,6 +193,17 @@
 .wrapper-2NJDcI {
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
+}
+.container-1UB9sr {
+    background-color: var(--secondary-color);
+    border-bottom: 0;
+    border-right: solid 1px var(--secondary-color);
+}
+.button-2KyEfG:hover {
+	background-color: var(--accent-color-transparent);
+}
+.avatarSpeaking-1wJCNq {
+    box-shadow: 0 0 0 2px var(--accent-color);
 }
 
 /*User Tab Under Channel List*/
