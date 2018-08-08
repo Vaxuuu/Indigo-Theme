@@ -278,6 +278,7 @@
 	height: 36px;
 	border-bottom: solid 1px var(--secondary-color);
 	border-top: solid 1px var(--secondary-color);
+	border-right: solid 1px var(--secondary-color);
 }
 .theme-dark .hasMore-3e72_v button {
 	background-color: var(--main-color);
