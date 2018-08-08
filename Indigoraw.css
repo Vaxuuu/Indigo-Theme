@@ -496,6 +496,10 @@
 	border-radius: 0;
 	border-color: var(--secondary-color);
 }
+#bd-settingspane-container .bd-pfbtn {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+}
 	
 
 /*Checkmarks*/
