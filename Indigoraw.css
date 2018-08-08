@@ -473,6 +473,20 @@
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-24hCdX.valueChecked-m-4IJZ {
 	background-color: var(--secondary-color);
 }
+[class="item-26Dhrx marginBottom8-AtZOdT horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG cardPrimaryEditable-3KtE4g card-3Qj_Yx da-item da-horizontal da-flex da-directionRow da-cardPrimaryEditable da-card"] {
+	background-color: var(--main-color) !important;
+	border-color: var(--secondary-color) !important;
+}
+.theme-dark .checked-3_4uQ9 {
+	background-color: var(--accent-color-transparent) !important;
+	border: solid 1px var(--secondary-color) !important;
+	border-radius: 0;
+}
+.theme-dark .checkbox-1ix_J3 {
+	border-radius: 0;
+	border-color: var(--secondary-color);
+}
+	
 
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
