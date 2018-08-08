@@ -167,20 +167,20 @@
 	color: var(--accent-color); 
 }
 .contentConnectedText-16O0fe, .contentConnectedVoice-qL-YrL, .contentDefaultText-3vZplL, .contentDefaultVoice-2ko43i, .contentLockedText-1aHuz8, .contentLockedVoice-1gx-SP, .contentMutedText-2y6aPQ, .contentMutedVoice-2lJ0UD, .contentUnreadText-2vNnZc, .contentUnreadVoice-1dijOt{	
-    background-color: var(--secondary-color-transparent);
+        background-color: var(--secondary-color-transparent);
 	border-radius: 0;
-	margin-right: 7px;
+	margin-right: 4px;
 }
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO, .contentConnectedVoice-qL-YrL:active, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
-	margin-right: 7px;
+	margin-right: 4px;
 }
 .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM  {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
 	border-radius: 0;
-	margin-right: 7px;
+	margin-right: 4px;
 }
 .unread-1Dp-OI {
 	border-radius: 1px;
@@ -195,9 +195,9 @@
 	border-radius: 0;
 }
 .container-1UB9sr {
-    background-color: var(--secondary-color);
-    border-bottom: 0;
-    border-right: solid 1px var(--secondary-color);
+        background-color: var(--secondary-color);
+        border-bottom: 0;
+        border-right: solid 1px var(--secondary-color);
 }
 .button-2KyEfG:hover {
 	background-color: var(--accent-color-transparent);
@@ -431,6 +431,10 @@
 }
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
 	background-color: var(--secondary-color);
+}
+.ui-standard-sidebar-view #editor-detached button {
+        background-color: var(--secondary-color);
+        border-radius: 0;
 }
 
 
