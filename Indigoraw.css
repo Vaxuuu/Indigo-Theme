@@ -688,10 +688,10 @@
 .theme-dark.contextMenu-HLZMGh {
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
-    border-radius: 0;
+        border-radius: 0;
 }
 .theme-dark .item-1Yvehc:hover {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
 .theme-dark .body-SKIE6r {
@@ -706,7 +706,7 @@
 }
 .theme-dark .messagesPopoutWrap-1MQ1bW {
 	background-color: var(--main-color);
-    border: solid 1px var(--secondary-color);
+        border: solid 1px var(--secondary-color);
 	border-radius:0;
 }
 .theme-dark .searchBar-1MOL6S {
