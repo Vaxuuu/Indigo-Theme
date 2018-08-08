@@ -260,7 +260,11 @@
 	background-color: var(--main-color);
 }
 .theme-dark .embedPill-1Zntps {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color) !important;
+	border-radius: 0;
+}
+.theme-dark .embedInner-1-fpTo {
+	border-radius: 0;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
 	background-color: transparent;
