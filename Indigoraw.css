@@ -277,7 +277,7 @@
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div {
 	background-color: var(--accent-color);
 }
-.theme-dark .title-3qD0b- {
+.theme-dark .title-3qD0b-, .theme-dark .titleCall-_b9o8P {
 	background-color: var(--main-color);
 	height: 36px;
 	border-bottom: solid 1px var(--secondary-color);
@@ -440,9 +440,6 @@
 }
 .wrapper-29NfPK.minimum-2d6zH6 .info-2fyCMj, .wrapper-29NfPK.normal-2GSW0u .info-2fyCMj {
 	background-color: var(--main-color);
-	border-top: solid 1px var(--secondary-color);
-	border-right: solid 1px var(--secondary-color);
-	border-bottom: solid 1px var(--secondary-color);
 }
 .videoBottom-2_HYXG, .videoCenter-1nmPrS, .videoTop-eOkSPq {
 	background-color: var(--main-color);
@@ -531,25 +528,7 @@
 	background-color: var(--secondary-color);
 	border-radius: 0;
 }
-.search-bar .search-bar-inner {
-	background-color: var(--secondary-color);
-	border: solid 1px var(--accent-color);
-	border-radius:0;
-}
-.theme-dark .friendSelected--wQP3f {
-	background-color: var(--secondary-color-transparent);
-}
-.vertical-V37hAW {
-	background-color: var(--main-color);
-	border-bottom: solid 1px var(--secondary-color);
-	border-right: solid 1px var(--secondary-color);
-}
-.wrapper-29NfPK.minimum-2d6zH6 .info-2fyCMj, .wrapper-29NfPK.normal-2GSW0u .info-2fyCMj {
-	border-top: solid 1px var(--secondary-color);
-	border-bottom: solid 1px var(--secondary-color);
-}
 	
-
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
 	background-color: var(--secondary-color);
