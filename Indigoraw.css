@@ -704,7 +704,11 @@
 	border-left: solid 1px var(--secondary-color);
 }
 .theme-dark .search-results-wrap .channel-separator .channel-name{
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color-transparent);
+	padding-left: 10px;	
+}
+.theme-dark .search-results-wrap .channel-separator:before {
+	display: none;
 }
 .theme-dark .search-results-wrap .search-result .hit {
 	background-color: var(--main-color);
