@@ -57,7 +57,7 @@
 	background-color: var(--main-color) !important;
 	color: white !important;
 	font-size: 14px;
-	border: solid 1.5px var(--secondary-color);
+	border: solid 1px var(--secondary-color);
 	border-top: 0;
 	border-right: 0;
 }
@@ -88,7 +88,7 @@
 	background-color: var(--secondary-color);
 }
 .theme-dark .guild-1EfMGQ .guildInner-3DSoA4 {
-	border-radius: 0!important;
+	border-radius: 0 !important;
 }
 .theme-dark .guildsAdd-21_IdK {
 	color: white;
