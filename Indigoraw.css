@@ -480,6 +480,38 @@
     display: none;
 }
 
+/*Kick/Ban Popout*/
+.Select .Select-menu {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.Select--single>.Select-control .Select-value, .Select-placeholder {
+	border: 1px solid var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .select-2TCrqx .Select-option.is-focused, .theme-dark .select-2TCrqx .Select-option:hover{
+	background-color: var(--secondary-color-transparent);
+}
+.theme-dark .ui-standard-sidebar-view, .theme-dark .modal-3HD5ck {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+    border-radius: 0;
+}
+.theme-dark .input-cIJ7To, .theme-dark .input-cIJ7To:hover, .theme-dark .input-cIJ7To:focus {
+	background-color: var(--secondary-color-transparent);
+	border-color: var(--accent-color);
+	border-radius: 0;
+}
+.inner-1JeGVc {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.lookFilled-1Gx00P.colorRed-1TFJan {
+	background-color: var(--secondary-color);
+        border-radius: 0;
+}
+
 /*Other Popouts*/
 .theme-dark .searchPopout-1vUlP3 {
 	background-color: var(--main-color);
@@ -566,6 +598,8 @@
 }
 .theme-dark .ui-standard-sidebar-view, .theme-dark .modal-3HD5ck {
 	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+        border-radius: 0;
 }
 .theme-dark .container-3cGP6G {
 	background-color: var(--main-color);
@@ -578,6 +612,11 @@
 	border-color: var(--secondary-color);
 }
 .root-SR8cQa {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.bda-slist li {
+	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
