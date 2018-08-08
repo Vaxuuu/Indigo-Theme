@@ -417,6 +417,14 @@
 	border-radius: 0;
 	color: white;
 }
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {
+	background-color: var(--accent-color)
+}
 
 /*Settings*/
 .side-8zPYf6 .itemSelected-1qLhcL, #bd-settings-sidebar .ui-tab-bar-item.selected {
