@@ -470,7 +470,7 @@
 	border-color: var(--secondary-color);
 	border-radius: 0;
 }
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-24hCdX.valueChecked-m-4IJZ {
 	background-color: var(--secondary-color);
 }
 
