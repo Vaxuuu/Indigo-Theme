@@ -516,6 +516,10 @@
 .theme-dark .ui-standard-sidebar-view .content-region {
 	background-color: var(--main-color);
 }
+.theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
+	border-radius: 0;
+	border-color: var(--secondary-color);
+}
 
 /*File sending*/
 .uploadModal-2ifh8j, .uploadModal-2ifh8j .footer-3mqk7D {
