@@ -60,6 +60,17 @@
 	border-right: 0;
 }
 
+/*Replyer Plugin*/
+.reply-list {
+    background-color: var(--main-color);
+    border: solid 1px var(--secondary-color);
+    border-radius: 0;
+}
+.reply-item {
+    background-color: var(--accent-color-transparent);
+    border-radius: 0;
+}
+
 /*Unread / Active Servers*/
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
 	border-radius: 1px;
@@ -584,6 +595,46 @@
 }
 .theme-dark .contentDefault-16dKSY {
 	border-radius: 0;
+}
+
+/*Emoji List*/
+#bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap {
+    background-color: var(--main-color);
+}
+.emoji-picker, .emojiPicker-3m1S-j, .emojiPicker-3m1S-j .header-1nkwgG .search-bar, .emojiPicker-3m1S-j .category-2U57w6 {
+    background-color: var(--main-color);
+}
+#bda-qem button {
+    background-color: var(--secondary-color);
+    border-radius: 0;
+    border-color: var(--secondary-color);
+    color: white;
+    box-shadow: var(--secondary-color) 1px 0 0 0;
+}
+#bda-qem button:hover {
+    background-color: var(--accent-color-transparent);
+}
+#bda-qem button.active {
+    background-color: var(--accent-color);
+}
+#bda-qem {
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+    padding-right: 0 !important;
+}
+.search-bar.search-bar-light .search-bar-inner {
+    background-color: var(--secondary-color-transparent);
+    border: solid 1px var(--accent-color);
+    border-radius: 0 !important;
+}
+.popoutTop-3uu9vG.noArrow-3BYQ0Z, .popoutTopRight-3BzFIE.noArrow-3BYQ0Z {
+    border: solid 1px var(--secondary-color);
+    border-radius: 0;
+    background-color: var(--main-color);
+}
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
+    background-color: var(--secondary-color);
+    border-radius: 0;
 }
 
 /*Other Popouts*/
