@@ -408,6 +408,12 @@
 .tabBarContainer-1s1u-z {
 	border-color: var(--secondary-color);
 }
+.topSectionPlaying-1J5E4n {
+	background-color: var(--secondary-color);
+}
+.topSectionSpotify-1lI0-P {
+	background-color: var(--accent-color);
+}
 
 /*File sending*/
 .uploadModal-2ifh8j, .uploadModal-2ifh8j .footer-3mqk7D {
