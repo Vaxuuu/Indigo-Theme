@@ -499,6 +499,9 @@
 	border-color: var(--secondary-color-transparent);
 	border-width: 1px;
 }
+.theme-dark .ui-standard-sidebar-view .btn-close:hover {
+	background-color: var(--secondary-color);
+}
 
 /*User Popout*/
 .userPopout-3XzG_A {
