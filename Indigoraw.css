@@ -221,11 +221,11 @@
 	border-bottom: solid 1px var(--secondary-color);
 }
 
-/*Chat*/
+/* */
 .theme-dark .chat-3bRxxu form{
 	background-color: var(--main-color);
 	margin: 0;
-	top: 10px;
+	top: 9px;
 }
 .theme-dark .inner-zqa7da {
 	left: 10px;
