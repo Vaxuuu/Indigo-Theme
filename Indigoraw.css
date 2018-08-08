@@ -417,15 +417,14 @@
 }
 .theme-dark .cardPrimaryEditable-3KtE4g {
 	border-color: var(--secondary-color);
+	border-radius: 0;
+        background-color: var(--main-color);
 }
 .theme-dark .input-cIJ7To.focused-1mmYsC {
 	border-color: var(--secondary-color);
 }
 .theme-dark .questionMark-CWEQZn {
 	background-color: var(--accent-color);
-	border-radius: 0;
-}
-.theme-dark .cardPrimaryEditable-3KtE4g {
 	border-radius: 0;
 }
 .lookFilled-1Gx00P.colorGreen-29iAKY {
