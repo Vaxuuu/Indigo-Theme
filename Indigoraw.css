@@ -280,8 +280,9 @@
 }
 .newMessagesBar-mujexs, .newMessagesBar-mujexs:hover {
 	background-color: var(--accent-color-transparent);
+	border-radius: 0;
 }
-.jumpToPresentBar-9P20AM button {
+.theme-dark .jumpToPresentBar-9P20AM button, .theme-dark .jumpToPresentBar-9P20AM button:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0px;
 }
