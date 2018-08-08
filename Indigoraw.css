@@ -606,6 +606,9 @@
 	background-color: var(--secondary-color);
         border-radius: 0;
 }
+.lookFilled-1Gx00P.colorRed-1TFJan:hover {
+	background-color: var(--accent-color);
+}
 
 /*Auto Complete*/
 .autocompleteRowVertical-q1K4ky {
