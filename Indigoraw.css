@@ -209,10 +209,6 @@
 .avatarSpeaking-1wJCNq {
     box-shadow: 0 0 0 2px var(--accent-color);
 }
-.theme-dark .container-PNkimc {
-	background-color: var(--main-color);
-	border-right: solid 1px var(--secondary-color);
-}
 
 /*User Tab Under Channel List*/
 .container-2Thooq {
@@ -352,7 +348,7 @@
 }
 
 /*Friends Tab, DM list*/
-.scroller-2FKFPG {
+.scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
 	border-right: solid 1px var(--secondary-color);
 }
