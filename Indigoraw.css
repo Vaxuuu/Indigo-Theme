@@ -113,6 +113,9 @@
 .theme-dark .guild-1EfMGQ.audio-3vVhBi .guildInner-3DSoA4:after, .theme-dark .guild-1EfMGQ.video-15yGu3 .guildInner-3DSoA4:after {
 	background-color: var(--accent-color);
 }
+.theme-dark .guildsError-3cFMtY {
+	border-radius: 0;
+}
 
 /*Server Name, Channel List*/
 .name-3YKhmS {
