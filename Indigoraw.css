@@ -785,6 +785,13 @@
 .theme-dark .search-results-wrap .search-result .hit {
 	box-shadow: none;
 }
+.theme-dark .search-results-wrap .action-buttons .jump-button {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
+.theme-dark .search-results-wrap .action-buttons .jump-button:hover {
+	background-color: var(--secondary-color);
+}
 
 /*Other Popouts*/
 .theme-dark .searchPopout-1vUlP3 {
