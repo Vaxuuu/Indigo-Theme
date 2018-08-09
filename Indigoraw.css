@@ -689,7 +689,7 @@
 /*Quick Switcher*/
 .theme-dark .quickswitcher-3JagVE {
 	background-color: var(--main-color);
-	height: 365px;
+	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
 .theme-dark .input-2VB9rf {
