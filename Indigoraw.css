@@ -63,12 +63,12 @@
 }
 
 /*Replyer Plugin*/
-.reply-list {
+.theme-dark .reply-list {
         background-color: var(--main-color);
         border: solid 1px var(--secondary-color);
         border-radius: 0;
 }
-.reply-item {
+.theme-dark .reply-item {
         background-color: var(--accent-color-transparent);
         border-radius: 0;
 }
