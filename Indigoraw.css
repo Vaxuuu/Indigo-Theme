@@ -564,6 +564,9 @@
 	background-color: var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .accountBtnInner-sj5jLs {
+	background-color: var(--main-color);
+}
 	
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
