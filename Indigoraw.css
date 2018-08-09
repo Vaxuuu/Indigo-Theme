@@ -148,7 +148,6 @@
 .scroller-2v3d_F {
 	margin-right: 0px;
 	background-color: var(--main-color);
-	border-right: solid 1.5px var(--secondary-color);
 }
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
 	color: white;
@@ -209,6 +208,10 @@
 }
 .avatarSpeaking-1wJCNq {
     box-shadow: 0 0 0 2px var(--accent-color);
+}
+.theme-dark .container-PNkimc {
+	background-color: var(--main-color);
+	border-right: solid 1px var(--secondary-color);
 }
 
 /*User Tab Under Channel List*/
