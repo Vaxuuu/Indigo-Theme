@@ -774,7 +774,7 @@
 .theme-dark .search-results-wrap .channel-separator:before {
 	display: none;
 }
-.theme-dark .search-results-wrap .search-result .hit {
+.theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit, .theme-dark .search-results-wrap .search-result .hit {
 	background-color: var(--main-color);
 	border: 1px solid var(--secondary-color);
 	border-radius: 0;
