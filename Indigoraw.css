@@ -669,7 +669,7 @@
 	background-color: var(--secondary-color);
         border-radius: 0;
 }
-.lookFilled-1Gx00P.colorRed-1TFJan:hover {
+.lookFilled-1Gx00P.colorRed-1TFJan:hover, .lookFilled-1Gx00P.colorRed-1TFJan:active {
 	background-color: var(--accent-color);
 }
 
