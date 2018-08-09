@@ -118,6 +118,10 @@
 .name-3YKhmS {
 	text-align: center;
 }
+.container-PNkimc {
+	background-color: var(--main-color);
+	border-right: solid 1px var(--secondary-color);
+}
 .popout-open .header-2o-2hj {
 	background-color: var(--main-color);
 }
@@ -350,7 +354,6 @@
 /*Friends Tab, DM list*/
 .scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
-	border-right: solid 1px var(--secondary-color);
 }
 .private-channels header {
 	color: white; 
