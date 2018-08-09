@@ -466,6 +466,31 @@
 .anchor-3Z-8Bb {
 	color: var(--accent-color);
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+	background-color: var(--secondary-color);
+	color: white;
+}
+.theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-add-header {
+	background: var(--main-color);
+}
+.theme-dark .wrapper-1cBijl {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+	background-color: var(--secondary-color);
+}
+.theme-dark .inner-2Y6JuD {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .inner-2Y6JuD:hover {
+	background-color: var(--secondary-color-transparent);
+}
+.theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-suggestions-header {
+	border-bottom-color: var(--secondary-color);
+}
 
 /*Settings*/
 .side-8zPYf6 .itemSelected-1qLhcL, #bd-settings-sidebar .ui-tab-bar-item.selected {
@@ -716,23 +741,23 @@
 
 /*Emoji List*/
 #bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap {
-        background-color: var(--main-color);
+        background-color: var(--main-color) !important;
 }
 .emoji-picker, .emojiPicker-3m1S-j, .emojiPicker-3m1S-j .header-1nkwgG .search-bar, .emojiPicker-3m1S-j .category-2U57w6 {
-        background-color: var(--main-color);
+        background-color: var(--main-color) !important;
 }
 #bda-qem button {
-        background-color: var(--secondary-color);
-        border-radius: 0;
-        border-color: var(--secondary-color);
+        background-color: var(--secondary-color) !important;
+        border-radius: 0 !important;
+        border-color: var(--secondary-color) !important;
         color: white;
-        box-shadow: var(--secondary-color) 1px 0 0 0;
+        box-shadow: var(--secondary-color) 1px 0 0 0 !important;
 }
 #bda-qem button:hover {
-        background-color: var(--accent-color-transparent);
+        background-color: var(--accent-color-transparent) !important;
 }
 #bda-qem button.active {
-        background-color: var(--accent-color);
+        background-color: var(--accent-color) !important;
 }
 #bda-qem {
         background: var(--secondary-color);
@@ -745,12 +770,12 @@
         border-radius: 0 !important;
 }
 .popoutTop-3uu9vG.noArrow-3BYQ0Z, .popoutTopRight-3BzFIE.noArrow-3BYQ0Z {
-        border: solid 1px var(--secondary-color);
-        border-radius: 0;
+        border: solid 1px var(--secondary-color) !important;
+        border-radius: 0 !important;
         background-color: var(--main-color);
 }
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
-        background-color: var(--secondary-color);
+        background-color: var(--secondary-color) !important;
         border-radius: 0;
 }
 
