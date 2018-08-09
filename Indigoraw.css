@@ -372,11 +372,14 @@
 .private-channels .search-bar {
 	height: 37px;
 	background-color: var(--main-color);
-	border-right: solid 1px var(--secondary-color);
+	border-top: solid 1px var(--secondary-color);
 }
 .searchBarInner-1_Tg2R, .searchBarTag-2xRzm8 {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
+}
+.private-channels {
+	border-right: solid 1px var(--secondary-color);
 }
 .theme-dark #friends .friends-table .friends-row+.friends-row {
 	border-top-color: var(--secondary-color);
@@ -439,9 +442,6 @@
 }
 .theme-dark .friendSelected--wQP3f {
 	background-color: var(--secondary-color-transparent);
-}
-.private-channels .search-bar {
-	border-top: solid 1px var(--secondary-color);
 }
 .wrapper-29NfPK.minimum-2d6zH6 .info-2fyCMj, .wrapper-29NfPK.normal-2GSW0u .info-2fyCMj {
 	background-color: var(--main-color);
