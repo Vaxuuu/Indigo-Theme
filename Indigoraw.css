@@ -766,9 +766,6 @@
 	border-bottom: solid 1px var(--secondary-color);
 	border-radius:0;
 }
-.search-results-wrap .results-wrapper {
-	border-left: solid 1px var(--secondary-color);
-}
 .theme-dark .search-results-wrap .channel-separator .channel-name{
 	background-color: var(--secondary-color-transparent);
 	padding-left: 10px;	
