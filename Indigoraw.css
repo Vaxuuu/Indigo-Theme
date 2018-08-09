@@ -294,7 +294,7 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
-.theme-dark .jumpToPresentBar-9P20AM button, .theme-dark .jumpToPresentBar-9P20AM button:hover {
+.theme-dark .jumpToPresentBar-9P20AM, .theme-dark .jumpToPresentBar-9P20AM:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0px;
 }
