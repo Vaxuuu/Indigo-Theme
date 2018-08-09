@@ -315,6 +315,9 @@
 	border-color: var(--secondary-color);
 	border-radius: 0;
 }
+.spinner-wandering-cubes .spinner-item {
+	background-color: var(--accent-color);
+}
 
 /*User List*/
 .theme-dark .members-1998pB {
