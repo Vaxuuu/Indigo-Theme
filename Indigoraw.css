@@ -568,6 +568,10 @@
 .theme-dark .accountBtnInner-sj5jLs {
 	background-color: var(--main-color);
 }
+.theme-dark .cardPrimaryOutline-29Ujqw {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
 	
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
