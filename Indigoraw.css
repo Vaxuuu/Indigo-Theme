@@ -356,10 +356,11 @@
 	background-color: var(--main-color);
 }
 .private-channels header {
-	color: white; 
+	margin-left: 8px;
+	background-color: var(--accent-color);
 	text-align: center;
-	border-top: solid 2px var(--accent-color);
-	border-bottom: solid 2px var(--accent-color);
+	color: white;
+        border: solid 2px var(--secondary-color);
 }
 .private-channels .channel.selected a {
 	background-color: var(--secondary-color-transparent);
