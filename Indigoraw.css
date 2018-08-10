@@ -550,7 +550,7 @@
 .theme-dark .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
          border-color: var(--secondary-color) !important;
          border-radius: 0;
-         background-color: var(--secondary-color) !important;
+         background-color: var(--main-color) !important;
 }
 .theme-dark .checked-3_4uQ9 {
 	background-color: var(--accent-color-transparent) !important;
