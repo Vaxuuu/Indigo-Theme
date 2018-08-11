@@ -503,6 +503,10 @@
 	background-color: var(--accent-color);
 	border: solid 1px var(--accent-color);
 }
+.aka-1mqp34 {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+}
 
 /*Settings*/
 .side-8zPYf6 .itemSelected-1qLhcL, #bd-settings-sidebar .ui-tab-bar-item.selected {
