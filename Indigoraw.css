@@ -372,6 +372,9 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
+.privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 {
+	background-color: var(--accent-color-transparent);
+}
 .private-channels .search-bar {
 	height: 36px;
 	background-color: var(--main-color);
