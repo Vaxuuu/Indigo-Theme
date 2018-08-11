@@ -961,3 +961,7 @@
 .theme-dark .noChannel-Z1DQK7 {
 	background-color: var(--main-color);
 }
+.search-bar-tag {
+	background-color: var(--accent-color);
+	border-radius: 0;
+}
