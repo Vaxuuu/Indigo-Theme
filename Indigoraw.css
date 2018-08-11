@@ -660,6 +660,9 @@
         border: 1px solid var(--accent-color);
 	border-radius: 0;
 }
+.theme-dark .listRow-hutiT_:hover {
+	background-color: var(--secondary-color-transparent);
+}
 
 /*File sending*/
 .uploadModal-2ifh8j, .uploadModal-2ifh8j .footer-3mqk7D {
@@ -1005,7 +1008,7 @@
 	background-color: var(--accent-color);
 }
 .form-deprecated .control-group input[type=email]:focus, .form-deprecated .control-group input[type=number]:focus, .form-deprecated .control-group input[type=password]:focus, .form-deprecated .control-group input[type=text]:focus, .form-deprecated .control-group textarea:focus, .form.deprecated .control-group input[type=email]:focus, .form.deprecated .control-group input[type=number]:focus, .form.deprecated .control-group input[type=password]:focus, .form.deprecated .control-group input[type=text]:focus, .form.deprecated .control-group textarea:focus {
-	border: none;
+	border-bottom-width: 1px;
 }
 .form-deprecated .btn-default, .form.deprecated .btn-default {
 	background-color: var(--main-color);
