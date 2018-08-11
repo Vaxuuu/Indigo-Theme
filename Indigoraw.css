@@ -1001,6 +1001,7 @@
 }
 .form-deprecated .btn-primary, .form.deprecated .btn-primary {
 	background-color: var(--secondary-color);
+	border-radius: 0;
 }
 .form-deprecated .btn-primary:gover, .form.deprecated .btn-primary:hover {
 	background-color: var(--accent-color);
