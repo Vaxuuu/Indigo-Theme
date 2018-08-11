@@ -494,6 +494,15 @@
 .theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-suggestions-header {
 	border-bottom-color: var(--secondary-color);
 }
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+	background-color: var(--secondary-color);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
+.theme-dark .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover {
+	background-color: var(--accent-color);
+	border: solid 1px var(--accent-color);
+}
 
 /*Settings*/
 .side-8zPYf6 .itemSelected-1qLhcL, #bd-settings-sidebar .ui-tab-bar-item.selected {
