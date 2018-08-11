@@ -999,4 +999,9 @@
 .form-deprecated .btn-default, .form.deprecated .btn-default {
 	background-color: var(--main-color);
 }
-	
+.form-deprecated .btn-primary, .form.deprecated .btn-primary {
+	background-color: var(--secondary-color);
+}
+.form-deprecated .btn-primary:gover, .form.deprecated .btn-primary:hover {
+	background-color: var(--accent-color);
+}
