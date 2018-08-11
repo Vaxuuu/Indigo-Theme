@@ -911,6 +911,7 @@
 .create-guild-container.deprecated .form.deprecated .form-inner, .create-guild-container.deprecated .action  {
 	background-color: var(--main-color);
         border: solid 1px var(--secondary-color);
+	border-radius: 0;
 }
 .root-SR8cQa {
 	border: solid 1px var(--secondary-color);
