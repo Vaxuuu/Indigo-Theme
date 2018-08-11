@@ -794,9 +794,6 @@
 }
 
 /*Search Function*/
-.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
-	background-color: var(--accent-color-transparent);
-}
 .theme-dark .search-l1Wz-Q {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
