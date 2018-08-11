@@ -968,3 +968,28 @@
 	background-color: var(--accent-color);
 	border-radius: 0;
 }
+.form-deprecated .control-group input[type=email], .form-deprecated .control-group input[type=number], .form-deprecated .control-group input[type=password], .form-deprecated .control-group input[type=text], .form-deprecated .control-group textarea, .form.deprecated .control-group input[type=email], .form.deprecated .control-group input[type=number], .form.deprecated .control-group input[type=password], .form.deprecated .control-group input[type=text], .form.deprecated .control-group textarea {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
+.form-deprecated .form-actions, .form.deprecated .form-actions {
+	background-color: var(--main-color);
+	border-top: 0;
+	border-left: solid 1px var(--secondary-color);
+	border-right: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
+}
+.regionSelect-3lf4eE .regionSelectInner-24f4Ce, .regionSelect-3lf4eE button {
+	border-color: var(--secondary-color);
+	border-radius: 0;
+}
+.regionSelect-3lf4eE:hover .regionSelectInner-24f4Ce, .regionSelect-3lf4eE:hover button {
+	border-color: var(--accent-color)
+}
+.regionSelect-3lf4eE:hover button {
+	background-color: var(--accent-color);
+}
+	
+	
+	
