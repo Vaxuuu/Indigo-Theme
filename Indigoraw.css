@@ -578,6 +578,9 @@
 .theme-dark .closeButton-1tv5uR:hover {
 	background-color: var(--secondary-color-transparent);
 }
+.ui-standard-sidebar-view .content-region-scroller .tools {
+	color: #72767d;
+}
 	
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
