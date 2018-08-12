@@ -225,6 +225,10 @@
 	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
 }
+.button-2b6hmh:hover {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
 
 /*Chat*/
 .theme-dark .chat-3bRxxu form{
