@@ -303,9 +303,12 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
-.theme-dark .jumpToPresentBar-9P20AM, .theme-dark .jumpToPresentBar-9P20AM:hover, .jumpToPresentBar-9P20AM .spinner {
+.theme-dark .jumpToPresentBar-9P20AM, .theme-dark .jumpToPresentBar-9P20AM:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0px;
+}
+.jumpToPresentBar-9P20AM .spinner {
+	background-color: transparent;
 }
 .theme-dark .markup-2BOw-j pre{
 	background-color: var(--main-color);
