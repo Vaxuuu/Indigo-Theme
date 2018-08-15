@@ -601,6 +601,11 @@
 .ui-standard-sidebar-view .content-region-scroller .tools {
 	color: #72767d;
 }
+.bda-slist .bda-footer button {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+}
+
 	
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
