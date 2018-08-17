@@ -862,6 +862,10 @@
 .theme-dark .search-results-wrap .action-buttons .jump-button:hover {
 	background-color: var(--secondary-color);
 }
+.theme-dark .option-96V44q.selected-rZcOL- {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
 
 /*Calendar*/
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
@@ -1010,9 +1014,6 @@
 }
 .theme-dark .resultsGroup-r_nuzN:before {
 	border-top: solid 0px var(--secondary-color);
-}
-.theme-dark .option-96V44q.selected-rZcOL- {
-	background-color: var(--secondary-color-transparent);
 }
 .bd-modal-wrapper .footer button:hover {
 	background-color: var(--secondary-color);
