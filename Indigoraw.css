@@ -606,6 +606,25 @@
 	border-radius: 0;
 }
 
+/*Custom CSS*/
+.ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+}
+.ace-monokai .ace_marker-layer .ace_active-line {
+	background-color: var(--secondary-color-transparent);
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+	background-color: var(--secondary-color);
+	border-color: var(--accent-color) !important;
+	border-radius: 0 !important;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button:hover,.bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+	background-color: var(--accent-color);
+}
+.ace_content, .ace_scrollbar-h {
+        background-color: var(--main-color-transparent);
+}	
 	
 /*Checkmarks*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
