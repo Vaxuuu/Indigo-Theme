@@ -1016,6 +1016,9 @@
         border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
+.create-guild-container.deprecated .action:hover.create .btn {
+	background-color: var(--accent-color);
+}
 .root-SR8cQa {
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
