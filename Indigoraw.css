@@ -608,6 +608,16 @@
 	background-color: var(--secondary-color);
 	border-radius: 0;
 }
+.lookGhost-2Fn_0-.colorGrey-2DXtkV {
+	background-color: var(--secondary-color-transparent);
+	color: white;
+	border-radius: 0;
+}
+.lookGhost-2Fn_0-.colorBrand-3pXr91 {
+	background-color: var(--accent-color-transparent);
+	color: white;
+	border-radius: 0;
+}
 
 /*Custom CSS*/
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
@@ -1097,4 +1107,12 @@
 }
 .form-deprecated .btn-primary:hover, .form.deprecated .btn-primary:hover {
 	background-color: var(--accent-color);
+}
+.regionSelectModal-12e-57, .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3:hover {
+	border-color: var(--accent-color);
 }
