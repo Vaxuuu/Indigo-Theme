@@ -330,6 +330,10 @@
 .spinner-wandering-cubes .spinner-item {
 	background-color: var(--accent-color);
 }
+.botTagRegular-2HEhHi {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+}
 
 /*User List*/
 .theme-dark .members-1998pB {
