@@ -366,6 +366,17 @@
 .operations-36ENbA>a {
 	color: var(--accent-color);
 }
+.theme-dark .wrapper-3WhCwL {
+	background-color: var(--accent-color-transparent);
+	color: var(--accent-color);
+}
+.theme-dark .wrapper-3WhCwL:hover {
+	color: var(--secondary-color);
+	background-color: var(--accent-color);
+}
+.theme-dark .markup-2BOw-j a, .theme-dark .topic-2QX7LI a {
+	color: var(--accent-color);
+}
 
 /*Friends Tab, DM list*/
 .scrollerWrap-2lJEkd {
