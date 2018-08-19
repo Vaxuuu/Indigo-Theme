@@ -375,10 +375,10 @@
 }
 .theme-dark .wrapper-3WhCwL {
 	background-color: var(--accent-color-transparent);
-	color: var(--accent-color);
+	color: #dcdde;
 }
 .theme-dark .wrapper-3WhCwL:hover {
-	color: var(--secondary-color);
+	color: white;
 	background-color: var(--accent-color);
 }
 .theme-dark .markup-2BOw-j a, .theme-dark .topic-2QX7LI a, .content-8biNdB a{
