@@ -128,6 +128,9 @@
 .popout-open .header-2o-2hj {
 	background-color: var(--main-color);
 }
+.theme-dark .item-1GzJrl.invite-271nFU, .theme-dark .item-1GzJrl.invite-271nFU:hover {
+	color: var(--accent-color);
+}
 .theme-dark .menu-Sp6bN1 {
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
@@ -622,6 +625,11 @@
 	color: white;
 	border-radius: 0;
 }
+.theme-dark .elevationHigh-1PneE4 {
+	background-color: var(--main-color-transparent) !important;
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
 
 /*Custom CSS*/
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
@@ -1105,6 +1113,12 @@
 .form-deprecated .control-group input[type=email]:focus, .form-deprecated .control-group input[type=number]:focus, .form-deprecated .control-group input[type=password]:focus, .form-deprecated .control-group input[type=text]:focus, .form-deprecated .control-group textarea:focus, .form.deprecated .control-group input[type=email]:focus, .form.deprecated .control-group input[type=number]:focus, .form.deprecated .control-group input[type=password]:focus, .form.deprecated .control-group input[type=text]:focus, .form.deprecated .control-group textarea:focus {
 	border-bottom-width: 1px;
 }
+.form.deprecated .control-group input[type=text]:focus {
+	border-bottom: solid 1px var(--accent-color);
+}
+.form.deprecated .control-group input[type=text] {
+	color: white;
+}
 .form-deprecated .btn-default, .form.deprecated .btn-default {
 	background-color: var(--main-color);
 }
@@ -1122,4 +1136,7 @@
 }
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3:hover {
 	border-color: var(--accent-color);
+}
+.regionSelectModal-12e-57 .regionSelectModalHeader-21khC1 {
+	color: var(--accent-color);
 }
