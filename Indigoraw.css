@@ -375,7 +375,7 @@
 }
 .theme-dark .wrapper-3WhCwL {
 	background-color: var(--accent-color-transparent);
-	color: #dcdde;
+	color: var(--accent-color);
 }
 .theme-dark .wrapper-3WhCwL:hover {
 	color: white;
