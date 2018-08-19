@@ -1158,3 +1158,12 @@
 .regionSelectModal-12e-57 .regionSelectModalHeader-21khC1 {
 	color: var(--accent-color);
 }
+.lookOutlined-3sRXeN.colorGreen-29iAKY {
+	border-color: var(--accent-color);
+	border-radius: 0;
+	color: var(--accent-color);
+}
+.theme-dark .inviteRow-2L02ae:hover {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
