@@ -12,6 +12,13 @@
         border: solid 1px var(--secondary-color-transparent) !important;
 }
 
+/*That one box when you get mentioned Thonk*/
+.wrapper-232cHJ {
+	background-color: var(--accent-color);
+	border-radius: 0;
+	border: solid 1px var(--secondary-color);
+}
+
 /*Highlights*/
 *::selection {
 	background: var(--accent-color)
