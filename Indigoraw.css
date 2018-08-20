@@ -49,6 +49,9 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
+.theme-dark .isMentioned-N-h9aa .mention:hover {
+	color: var(--accent-color);
+}
 
 /*TitleBar*/
 .directionRowReverse-m8IjIq {
