@@ -920,7 +920,7 @@
 	border: 1px solid var(--secondary-color);
 	border-radius: 0;
 }
-.theme-dark .search-results-wrap .search-result .search-result-message.hit {
+.theme-dark .search-results-wrap .search-result .search-result-message.hit, .theme-dark .search-results-wrap .search-result.expanded {
 	border: none;
 }
 .theme-dark .search-results-wrap .search-result:after, .theme-dark .search-results-wrap .search-result:before {
