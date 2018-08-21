@@ -764,16 +764,11 @@
 	border-radius:0;
 	color: white;
 }
-.uploadModal-2ifh8j .footer-3mqk7D .button-primary {
-	background-color: var(--accent-color);
+.uploadModal-2ifh8j .footer-3mqk7D .button {
+	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 	color: white;
 	margin-left: 30px;
-}
-.uploadModal-2ifh8j .footer-3mqk7D .button {
-	background-color: var(--accent-color);
-	border-radius: 0;
-	border: solid 1px var(--secondary-color);
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button:hover {
 	background-color: var(--accent-color);
