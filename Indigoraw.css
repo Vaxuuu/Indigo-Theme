@@ -101,8 +101,16 @@
 	border-radius: 0 !important;
 }
 .theme-dark .guildsAdd-21_IdK {
-	border-radius: 0;
-	background: var(--secondary-color);
+	border-color: rgba(246,246,247,0.5);
+}
+.guildsAddInner-1KMFy- {
+	color: rgba(246,246,247,0.5);
+}
+.guildsAddInner-1KMFy-:hover {
+	color: white;
+}
+.theme-dark .guildsAdd-21_IdK:hover {
+	border-color: white;
 }
 .theme-dark .guildsWrapper-5TJh6A {
 	background-color: var(--main-color);
