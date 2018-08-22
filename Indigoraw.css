@@ -566,6 +566,12 @@
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
+.side-8zPYf6 .itemSelected-1qLhcL[style="color: rgb(255, 255, 255); background-color: rgb(114, 137, 218);"] {
+	background-color: var(--secondary-color-transparent) !important;
+}
+.theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover[style="color: rgb(114, 137, 218); background-color: rgba(114, 137, 218, 0.0980392);"] {
+	background-color: var(--secondary-color-transparent) !important;
+}
 .header-1R_AjF {
 	background-color: var(--main-color);
         border-bottom: solid 1px var(--secondary-color)
