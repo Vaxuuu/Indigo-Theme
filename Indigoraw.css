@@ -223,6 +223,9 @@
         border-bottom: 0;
         border-right: solid 1px var(--secondary-color);
 }
+.button-2KyEfG {
+	border-radius: 0;
+}
 .button-2KyEfG:hover {
 	background-color: var(--accent-color-transparent);
 }
