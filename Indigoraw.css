@@ -744,6 +744,16 @@
 .theme-dark .listRow-hutiT_:hover {
 	background-color: var(--secondary-color-transparent);
 }
+.theme-dark .note-3kmerW textarea, .theme-dark .note-3kmerW textarea:focus {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+	width:  230px;
+	margin-left: 5px;
+}
+.theme-dark .note-3kmerW textarea::-webkit-scrollbar {
+	display: none;
+}
 
 /*File sending*/
 .uploadModal-2ifh8j {
