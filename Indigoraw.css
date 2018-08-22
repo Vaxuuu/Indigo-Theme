@@ -262,6 +262,9 @@
 .theme-dark .channelTextArea-rNsIhG {
 	border-top: solid 1px var(--secondary-color);
 }
+.theme-dark .textArea-2Spzkt::-webkit-scrollbar {
+	display: none;
+}
 .theme-dark .typing-2GQL18 {
 	background-color: var(--main-color);
 	bottom: 4px;
