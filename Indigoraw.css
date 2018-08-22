@@ -748,7 +748,7 @@
 /*File sending*/
 .uploadModal-2ifh8j {
 	background-color: var(--main-color);
-	border-top: solid 1px var(--secondary-color);
+	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
 .uploadModal-2ifh8j .footer-3mqk7D {
