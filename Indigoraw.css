@@ -1187,3 +1187,9 @@
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
+.cardWarning-2yPNAa {
+	margin-top: 10px;
+	background-color: var(--accent-color);
+	border-color: var(--secondary-color);
+	border-radius: 0;
+}
