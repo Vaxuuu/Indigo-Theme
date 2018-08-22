@@ -547,12 +547,12 @@
 }
 
 /*Settings*/
-.side-8zPYf6 .itemSelected-1qLhcL, #bd-settings-sidebar .ui-tab-bar-item.selected {
+.side-8zPYf6 .itemSelected-1qLhcL, .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
 	border-radius: 0px;
 }
-.theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, #bd-settings-sidebar .ui-tab-bar-item:hover {
+.theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
