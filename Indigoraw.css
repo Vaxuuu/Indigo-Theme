@@ -377,7 +377,7 @@
 	margin-left: 5px;
 	padding-top: 10px;
 }
-.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+.theme-dark .member-3W1lQa:hover .content-OzHfo4, .userHovered-2_fT4Z:active {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
