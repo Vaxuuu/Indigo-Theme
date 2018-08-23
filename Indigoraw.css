@@ -101,7 +101,9 @@
 	border-radius: 0 !important;
 }
 .theme-dark .guildsAdd-21_IdK {
+	background-color: var(--secondary-color-transparent);
 	border-color: rgba(246,246,247,0.5);
+	border-radius: 0;
 }
 .guildsAddInner-1KMFy- {
 	color: rgba(246,246,247,0.5);
