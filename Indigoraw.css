@@ -1214,3 +1214,6 @@
 	border-color: var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
+	background-color: var(--accent-color);
+}
