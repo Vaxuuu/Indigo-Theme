@@ -687,6 +687,25 @@
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .card-FDVird {
+	border-bottom: solid 1px var(--secondary-color-transparent);
+	border-top: solid 1px var(--secondary-color-transparent);
+}
+.theme-dark .card-FDVird:before {
+	background-color: var(--main-color);
+	border-color: var(--secondary-color);
+	border-radius: 0;
+}
+.container-CpszHS:not(.disabled-29eJ21):hover {
+	border-radius: 0;
+}
+.theme-dark .button-mM-y8i {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+}
+.theme-dark .button-mM-y8i:hover {
+	background-color: var(--accent-color);
+}
 
 /*Custom CSS*/
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
@@ -694,7 +713,7 @@
 	border: solid 1px var(--secondary-color);
 }
 .ace-monokai .ace_marker-layer .ace_active-line {
-	background-color: var(--secondary-color-transparent);
+	background-color: var(--secondary-color-transparent) !important;
 }
 .ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
 	background-color: var(--secondary-color);
