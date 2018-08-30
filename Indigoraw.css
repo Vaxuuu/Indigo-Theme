@@ -12,7 +12,7 @@
         border: solid 1px var(--secondary-color-transparent) !important;
 }
 
-/*That one box when you get mentioned Thonk*/
+/*Mention notifications*/
 .wrapper-232cHJ {
 	background-color: var(--accent-color);
 	border-radius: 0;
@@ -358,9 +358,10 @@
 .spinner-wandering-cubes .spinner-item {
 	background-color: var(--accent-color);
 }
-.botTagRegular-2HEhHi {
+.botTagRegular-2HEhHi, .headerBotTag-35luy- {
 	background-color: var(--secondary-color);
 	border-radius: 0;
+	color: white;
 }
 .theme-dark .reaction-1ELvT8 {
 	background-color: var(--secondary-color-transparent);
