@@ -719,6 +719,21 @@
 .theme-dark .button-mM-y8i:hover {
 	background-color: var(--accent-color);
 }
+.theme-dark .user-settings-games .not-detected {
+        background-color: var(--accent-color);
+        border-radius: 0;
+}
+.theme-dark .user-settings-games .game {
+	box-shadow: none;
+	border: none;
+}
+.theme-dark .card-FDVird:hover{
+	background-color: var(--main-color);
+	border: none;
+}
+.theme-dark .card-FDVird{
+	border-color: var(--secondary-color);
+}
 
 /*Custom CSS*/
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
