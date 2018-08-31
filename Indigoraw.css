@@ -1,12 +1,12 @@
 /*Scrollbars*/
-*::-webkit-scrollbar {
+::-webkit-scrollbar {
 	 width: 5px !important;
 }
-*::-webkit-scrollbar-track-piece{
+::-webkit-scrollbar-track-piece{
         background-color: transparent !important;
         border: 0 !important;	
 }
-*::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
         background-color: var(--secondary-color) !important;
         border-radius: 0 !important;
         border: solid 1px var(--secondary-color-transparent) !important;
