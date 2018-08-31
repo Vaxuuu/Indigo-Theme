@@ -582,6 +582,9 @@
 .theme-dark .side-8zPYf6 .item-PXvHYJ, .theme-dark #bd-settings-sidebar .ui-tab-bar-item {
         padding: 3px 10px 3px 10px;
 }
+.ui-standard-sidebar-view .content-region-scroller .tools {
+        margin-top: -150px;
+}
 .side-8zPYf6 .itemSelected-1qLhcL, .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
