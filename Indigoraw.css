@@ -661,7 +661,7 @@
 }
 #bd-settingspane-container .bd-pfbtn {
 	background-color: var(--secondary-color);
-	border-radius: 0;
+	border-radius: 0 !important;
 }
 .theme-dark .accountBtnInner-sj5jLs {
 	background-color: var(--main-color);
