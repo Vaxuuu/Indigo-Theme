@@ -527,7 +527,7 @@
 	background-image: none;
 	box-shadow: none;
 }
-.anchor-3Z-8Bb {
+.theme-dark .markup-2BOw-j .anchor-3Z-8Bb {
 	color: var(--accent-color);
 }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
@@ -733,6 +733,9 @@
 }
 .theme-dark .card-FDVird{
 	border-color: var(--secondary-color);
+}
+.horizontal-1ae9ci>.flex-1xMQg5:first-child, .horizontal-1ae9ci>.flexChild-faoVW3:first-child {
+	border-radius: 0;
 }
 
 /*Custom CSS*/
