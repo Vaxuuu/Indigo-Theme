@@ -1291,3 +1291,7 @@
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
 	background-color: var(--accent-color);
 }
+.theme-dark .close-18n9bP:hover {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
