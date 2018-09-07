@@ -1296,3 +1296,16 @@
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
+#autocomplete-popout header {
+        background-color: var(--main-color);
+}
+#autocomplete-popout {
+        border-radius: 0;
+        border: solid 1px var(--secondary-color);
+}
+.theme-dark #autocomplete-popout .row.selected {
+        background: var(--secondary-color-transparent);
+}
+#autocomplete-popout .autocomplete-scroller::-webkit-scrollbar {
+        display: none;
+}
