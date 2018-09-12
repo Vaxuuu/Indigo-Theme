@@ -965,6 +965,10 @@
 .emoji-picker, .emojiPicker-3m1S-j, .emojiPicker-3m1S-j .header-1nkwgG .search-bar, .emojiPicker-3m1S-j .category-2U57w6 {
         background-color: var(--main-color) !important;
 }
+.emojiPicker-3m1S-j {
+        border: solid 1px var(--secondary-color);
+        border-radius: 0;
+}
 #bda-qem button {
         background-color: var(--secondary-color) !important;
         border-radius: 0 !important;
