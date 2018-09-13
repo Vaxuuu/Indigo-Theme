@@ -142,7 +142,6 @@
 }
 .container-PNkimc {
 	background-color: var(--main-color);
-	border-right: solid 1px var(--secondary-color);
 }
 .popout-open .header-2o-2hj {
 	background-color: var(--main-color);
@@ -166,6 +165,7 @@
 	background-color: var(--main-color);
 	border-bottom: solid 1px var(--secondary-color);
 	border-top: solid 1px var(--secondary-color);
+	border-right: solid 1px var(--secondary-color);
 	height: 38px;
 }
 .header-2o-2hj:hover {
@@ -178,6 +178,9 @@
 	margin-right: 0px;
 	background-color: var(--main-color);
 }
+.channels-Ie2l6A .scroller-2FKFPG {
+        border-right: solid 1px var(--secondary-color);
+} 
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
 	color: white;
 	text-align: center;
@@ -239,7 +242,7 @@
 	background-color: var(--accent-color-transparent);
 }
 .avatarSpeaking-1wJCNq {
-    box-shadow: 0 0 0 2px var(--accent-color);
+        box-shadow: 0 0 0 2px var(--accent-color);
 }
 
 /*User Tab Under Channel List*/
@@ -418,25 +421,25 @@
 .scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
 }
-.private-channels header {
+.privateChannels-1nO12o header {
 	margin-left: 8px;
 	background-color: var(--accent-color);
 	text-align: center;
 	color: white;
         border: solid 2px var(--secondary-color);
 }
-.private-channels .channel.selected a {
+.theme-dark .channel-2QD9_O.selected-1HYmZZ a {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
-.private-channels .channel:hover a {
+.theme-dark .channel-2QD9_O:hover a {
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 {
 	background-color: var(--accent-color-transparent);
 }
-.private-channels .search-bar {
+.theme-dark .searchBar-6Kv8R2 {
 	height: 36px;
 	background-color: var(--main-color);
 	border-top: solid 1px var(--secondary-color);
