@@ -257,6 +257,12 @@
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
+.container-2Thooq .avatar-3JE4B3 {
+        border-radius: 0;
+}
+.theme-dark .status-oxiHuE {
+        border: solid 1px var(--accent-color) !important;
+}
 
 /*Chat*/
 .theme-dark .chat-3bRxxu form{
