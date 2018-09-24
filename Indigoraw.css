@@ -166,7 +166,7 @@
 	border-bottom: solid 1px var(--secondary-color);
 	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
-	height: 38px;
+	height: 36px;
 }
 .header-2o-2hj:hover {
 	background-color: var(--main-color-transparent);
