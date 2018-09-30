@@ -611,6 +611,9 @@
 #pubslayer button[style*="background-color: rgb(58, 193, 92);"] {
         background-color: var(--accent-color) !important;
 }
+.bd-server-card.bd-server-card-pinned:after {
+	background-color: var(--secondary-color);
+}
 .side-8zPYf6 .itemSelected-1qLhcL[style*="color: rgb(255, 255, 255); background-color: rgb(114, 137, 218);"] {
 	background-color: var(--secondary-color-transparent) !important;
 }
