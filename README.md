@@ -1,5 +1,5 @@
 # Indigo
-A dark purple theme that you can customize! Not compatible with compact mode and light mode.
+A dark purple theme that you can customize! Not compatible with light mode.
 
 # How to edit
 
