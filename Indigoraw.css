@@ -83,6 +83,15 @@
         border-radius: 0;
 }
 
+/*Direct Download plugin*/
+#files_directDownload .file .progress-bar {
+        background-color: var(--secondary-color);
+        height: 3px;
+}
+#files_directDownload .file {
+        border-radius: 0 !important;
+}
+
 /*Unread / Active Servers*/
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
 	border-radius: 1px;
