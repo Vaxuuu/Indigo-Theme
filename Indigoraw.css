@@ -1066,7 +1066,7 @@ border-radius: 0;
 	border-radius: 0;
 }
 .theme-dark .queryContainer-RKFJW-:hover {
-	background-color: var(--secondary-color-transparent);
+	background-color: var(--secondary-color);
 }
 .theme-dark .option-96V44q.selected-rZcOL-:after {
 	background: linear-gradient(90deg,rgba(35,38,42,0),var(--secondary-color-transparent) 50%);
