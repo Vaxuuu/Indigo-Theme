@@ -1075,7 +1075,7 @@ border-radius: 0;
         background: transparent;
  }
 .theme-dark .elevationBorderHigh-2WYJ09 {
-        box-shadow: none;
+        margin-top: -11px;
 }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit, .theme-dark .search-results-wrap .search-result.expanded {
 	border: none;
