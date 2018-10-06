@@ -1354,3 +1354,6 @@ border-radius: 0;
 #autocomplete-popout .autocomplete-scroller::-webkit-scrollbar {
         display: none;
 }
+.theme-dark .itemGroup-1tL0uz {
+	border-color: var(--secondary-color-transparent);
+}
