@@ -1243,9 +1243,10 @@ border-radius: 0;
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color) !important;
 	border-radius: 0;
+	border-top: none;
 }
 .theme-dark .resultsGroup-r_nuzN:before {
-	border-top: solid 1px var(--secondary-color);
+	border-top: none;
 }
 .bd-modal-wrapper .footer button:hover {
 	background-color: var(--secondary-color);
