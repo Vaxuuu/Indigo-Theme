@@ -144,8 +144,8 @@
 .theme-dark .guildsError-3cFMtY {
 	border-radius: 0;
 }
-.guildsWrapper-5TJh6A.foldercontainer.foldercontainerclosed {
-	display: none;
+.guildsWrapper-5TJh6A.foldercontainer.foldercontainerclosed, .guildsWrapper-5TJh6A.foldercontent.foldercontentclosed {
+	display: none !important;
 }
 
 /*Server Name, Channel List*/
