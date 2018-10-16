@@ -587,6 +587,20 @@ border-radius: 0;
 	background-color: var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY {
+        border-top-color: var(--secondary-color-transparent);
+}	
+.theme-dark .header-39GIC8 {
+	border-bottom-color: var(--secondary-color);
+	background-color: var(--main-color);
+}
+.theme-dark .rowWrapperActive-2L7i9f {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
+.theme-dark .headerCell-3L6rFG {
+	border-color: var(--secondary-color-transparent);
+}
 
 /*Settings*/
 .theme-dark .ui-standard-sidebar-view .sidebar-region {
