@@ -619,12 +619,12 @@ border-radius: 0;
         padding: 3px 10px 3px 10px;
 }
 .side-8zPYf6 .itemSelected-1qLhcL, .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected, #pubslayer .ui-tab-bar-item.selected {
-	background-color: var(--secondary-color-transparent);
+	background-color: var(--secondary-color-transparent) !important;
 	border: solid 1px var(--accent-color);
 	border-radius: 0px;
 }
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover, #pubslayer .ui-tab-bar-item:hover {
-	background-color: var(--secondary-color-transparent);
+	background-color: var(--secondary-color-transparent) !important;
 	border-radius: 0;
 }
 #pubslayer button {
@@ -801,19 +801,19 @@ border-radius: 0;
 
 /*Custom CSS*/
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
-	background-color: var(--main-color);
+	background-color: var(--main-color) !important;
 	border: solid 1px var(--secondary-color);
 }
 .ace-monokai .ace_marker-layer .ace_active-line {
 	background-color: var(--secondary-color-transparent) !important;
 }
 .ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color) !important;
 	border-color: var(--accent-color) !important;
 	border-radius: 0 !important;
 }
 .ui-standard-sidebar-view #bd-customcss-attach-controls button:hover,.bd-detached-css-editor #bd-customcss-attach-controls button:hover {
-	background-color: var(--accent-color);
+	background-color: var(--accent-color) !important;
 }
 .ace_content, .ace_scrollbar-h {
         background-color: var(--main-color-transparent);
@@ -1204,11 +1204,11 @@ border-radius: 0;
 	border-radius: 0;
 }
 .bd-modal-wrapper .bd-modal-body, .bd-modal-wrapper .header {
-	background-color: var(--main-color);
+	background-color: var(--main-color) !important;
 }
 .bd-modal-wrapper .bd-modal-inner {
-	border-color: var(--secondary-color);
-	border-radius: 0;
+	border-color: var(--secondary-color) !important;
+	border-radius: 0 !important;
 }
 .theme-dark .footer-1kmXd4 {
 	background-color: var(--main-color);
@@ -1269,11 +1269,11 @@ border-radius: 0;
 	border-top: none;
 }
 .bd-modal-wrapper .footer button:hover {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color) !important;
 }
 .bd-modal-wrapper .footer button{
-	background-color: var(--accent-color);
-	border-radius: 0;
+	background-color: var(--accent-color) !important;
+	border-radius: 0 !important;
 }
 .theme-dark .message-2qRu38 {
 	background-color: var(--main-color);
