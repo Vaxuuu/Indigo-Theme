@@ -803,6 +803,7 @@ border-radius: 0;
 .ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
 	background-color: var(--main-color) !important;
 	border: solid 1px var(--secondary-color) !important;
+	box-shadow: none !important;
 }
 .ace-monokai .ace_marker-layer .ace_active-line {
 	background-color: var(--secondary-color-transparent) !important;
