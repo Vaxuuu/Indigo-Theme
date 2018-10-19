@@ -688,7 +688,7 @@ border-radius: 0;
 	border-radius: 0;
 }
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-24hCdX.valueChecked-m-4IJZ {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color) !important;
 }
 .theme-dark .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
          border-color: var(--secondary-color) !important;
