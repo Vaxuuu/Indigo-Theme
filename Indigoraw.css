@@ -1382,3 +1382,6 @@ border-radius: 0;
 .themerepo-modal .themeEntry.updated .btn-download {
 	background-color: var(--accent-color) !important;
 }
+.create-guild-container.deprecated .create-or-join .actions .or {
+	display: none;
+}
