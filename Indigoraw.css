@@ -800,7 +800,7 @@ border-radius: 0;
 }
 
 /*Custom CSS*/
-.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls, .ace-monokai .ace_gutter {
 	background-color: var(--main-color) !important;
 	border: solid 1px var(--secondary-color) !important;
 	box-shadow: none !important;
