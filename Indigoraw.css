@@ -800,7 +800,7 @@ border-radius: 0;
 }
 
 /*Custom CSS*/
-.ace_gutter-layer, .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
 	background-color: var(--main-color) !important;
 	border: solid 1px var(--secondary-color) !important;
 	box-shadow: none !important;
@@ -808,12 +808,12 @@ border-radius: 0;
 .ace-monokai .ace_marker-layer .ace_active-line {
 	background-color: var(--secondary-color-transparent) !important;
 }
-.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
 	background-color: var(--secondary-color) !important;
 	border-color: var(--accent-color) !important;
 	border-radius: 0 !important;
 }
-.ui-standard-sidebar-view #bd-customcss-attach-controls button:hover,.bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover,.bd-detached-css-editor #bd-customcss-attach-controls button:hover {
 	background-color: var(--accent-color) !important;
 }
 .ace_content, .ace_scrollbar-h {
