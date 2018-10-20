@@ -798,6 +798,9 @@ border-radius: 0;
 .theme-dark .option-n0icdO:hover {
     background-color: var(--secondary-color-transparent);
 }
+.theme-dark .divider-3573oO, .theme-dark .separator-gCa7yv, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+    background-color: var(--secondary-color-transparent);
+}
 
 /*Custom CSS*/
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls, .ace-monokai .ace_gutter {
