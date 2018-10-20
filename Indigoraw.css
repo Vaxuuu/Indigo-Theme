@@ -394,6 +394,11 @@ border-radius: 0;
 .theme-dark .divider-23swzi {
 	background-color: var(--secondary-color-transparent);
 }
+.theme-dark .wrapperAudio-1jDe0Q {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
 
 /*User List*/
 .theme-dark .members-1998pB {
