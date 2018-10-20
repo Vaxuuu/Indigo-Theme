@@ -606,14 +606,14 @@ border-radius: 0;
 }
 
 /*Settings*/
-.theme-dark .ui-standard-sidebar-view .sidebar-region {
-	flex: none;
+.theme-dark .sidebarRegion-VFTUkN {
+	flex: 0.5;
 }
-.theme-dark .ui-standard-sidebar-view .sidebar-region .sidebar {
-	padding: 20px 10px 20px 10px;
+.theme-dark .sidebar-CFHs9e {
+	padding: 10px 10px 0px 10px;
 }
-.theme-dark .ui-standard-sidebar-view .content-column.default {
-	max-width: 1100px;
+.contentColumn-2hrIYH, .customColumn-Rb6toI {
+	min-width: 1050px;
 }
 .theme-dark .side-8zPYf6 .item-PXvHYJ, .theme-dark #bd-settings-sidebar .ui-tab-bar-item {
         padding: 3px 10px 3px 10px;
