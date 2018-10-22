@@ -817,7 +817,7 @@ border-radius: 0;
 	background-color: var(--secondary-color-transparent) !important;
 }
 .ace-monokai .ace_gutter-active-line {
-        background-color: var(--accent-color-transparent);
+        background-color: var(--accent-color-transparent) !important;
 }
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
 	background-color: var(--secondary-color) !important;
