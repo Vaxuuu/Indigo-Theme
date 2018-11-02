@@ -656,6 +656,7 @@ border-radius: 0;
 }
 .theme-dark .footer-2yfCgX {
 	background-color: var(--main-color);
+	border-top: solid 1px var(--secondary-color);
 }
 .theme-dark .cardPrimaryEditable-3KtE4g {
 	border-color: var(--secondary-color);
