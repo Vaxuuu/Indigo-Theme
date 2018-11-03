@@ -1131,13 +1131,18 @@ border-radius: 0;
 }
 
 /*Calendar*/
+.theme-dark .popout-3sVMXz {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+	border-radius: 0;
+}
+.theme-dark .container-3ayLPN {
 	background-color: var(--main-color);
 }
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
-	border-radius: 0;
-	border-color: var(--secondary-color);
-	background-color: var(--main-color);
+.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw {
+	border-top-color: var(--secondary-color-transparent);
 }
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--next, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--previous {
 	border-radius: 0;
