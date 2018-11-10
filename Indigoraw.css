@@ -163,7 +163,6 @@
 }
 .theme-dark .menu-Sp6bN1 {
 	background-color: var(--main-color);
-	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
 .theme-dark .item-1GzJrl:hover {
@@ -791,20 +790,27 @@ border-radius: 0;
 	border-radius: 0;
 }
 .theme-dark .wrapper-3jrx9n {
-    border-radius: 0;
-    border-color: var(--secondary-color);
+        border-radius: 0;
+        border-color: var(--secondary-color);
 }
 .theme-dark .option-n0icdO {
-    border-radius: 0;
+        border-radius: 0;
 }
 .theme-dark .selected-mKYnfr.option-n0icdO {
-    background-color: var(--secondary-color);
+        background-color: var(--secondary-color);
 }
 .theme-dark .option-n0icdO:hover {
-    background-color: var(--secondary-color-transparent);
+        background-color: var(--secondary-color-transparent);
 }
 .theme-dark .divider-3573oO, .theme-dark .separator-gCa7yv, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
-    background-color: var(--secondary-color-transparent);
+        background-color: var(--secondary-color-transparent);
+}
+.standardSidebarView-3F1I7i #editor-detached button {
+        background-color: var(--secondary-color);
+        border-radius: 0;
+}
+.standardSidebarView-3F1I7i #editor-detached button:hover {
+        background-color: var(--accent-color);
 }
 
 /*Custom CSS*/
@@ -1134,6 +1140,7 @@ border-radius: 0;
 .theme-dark .popout-3sVMXz {
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
+	background-color: var(--main-color);
 }
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
 	border-radius: 0;
