@@ -17,7 +17,7 @@ Just add this to the theme file/your custom css! (make sure to insert the link t
 .appMount-3VJmYg {
     background-image: url("insert link here");
     background-size: cover;
-	background-position: center;
+    background-position: center;
 }
 
 /*Background brightness - change the 0.4 value to fit your liking. 0 is the brightest and 1 is solid black*/
