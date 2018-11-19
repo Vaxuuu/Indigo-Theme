@@ -15,7 +15,7 @@ Just add this to the theme file/your custom css! (make sure to insert the link t
 ```css
 /*Background image*/
 .appMount-3VJmYg {
-    background-image: url("https://cdn.discordapp.com/attachments/418485096492826625/479034717799186433/tumblr_nt81mu7Oqt1swsl7bo3_1280.png");
+    background-image: url("insert link here");
     background-size: cover;
 	background-position: center;
 }
