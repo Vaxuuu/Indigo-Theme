@@ -611,7 +611,7 @@ border-radius: 0;
 
 /*Settings*/
 .theme-dark .sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP {
-	flex: 0.5;
+	flex: 0.75;
 }
 .theme-dark .sidebar-CFHs9e {
 	padding: 10px 10px 0px 10px;
@@ -620,6 +620,10 @@ border-radius: 0;
 	max-width: none;
 	padding: 0;
 	padding-left: 10px;
+}
+.contentRegionScroller-26nc1e .tools-3-3s-N {
+	top: 20px;
+	right: 10px;
 }
 .theme-dark .side-8zPYf6 .item-PXvHYJ, .theme-dark #bd-settings-sidebar .ui-tab-bar-item {
         padding: 3px 10px 3px 10px;
