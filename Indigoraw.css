@@ -168,6 +168,9 @@
 	background-color: var(--main-color);
 	border-radius: 0;
 }
+.theme-dark .separator-2zcjq8 {
+	border-bottom-color: var(--secondary-color-transparent);
+}
 .theme-dark .item-1GzJrl:hover {
 	background-color: var(--secondary-color-transparent);
         border-radius: 0;
