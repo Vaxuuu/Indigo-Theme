@@ -147,6 +147,9 @@
 .guildsWrapper-5TJh6A.foldercontainer.foldercontainerclosed, .guildsWrapper-5TJh6A.foldercontent.foldercontentclosed {
 	display: none !important;
 }
+.theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {
+	background-color: var(--secondary-color);
+}
 
 /*Server Name, Channel List*/
 .name-3YKhmS {
