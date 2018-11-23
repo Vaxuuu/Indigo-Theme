@@ -612,7 +612,7 @@ border-radius: 0;
 	border-color: var(--secondary-color-transparent);
 }
 
-/*Settings*/
+/*Settings and games tab*/
 .theme-dark .sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP {
 	flex: 0.75;
 }
@@ -685,7 +685,7 @@ border-radius: 0;
 	background-color: var(--accent-color);
 	border-radius: 0;
 }
-.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+.theme-dark .lookFilled-1Gx00P.hoverGreen-1gjdJc.hasHover-3X1-zV:hover {
 	background-color: var(--secondary-color);
 }
 .ui-standard-sidebar-view #editor-detached button {
