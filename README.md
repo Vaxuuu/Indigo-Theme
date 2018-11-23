@@ -22,7 +22,7 @@ Just add this to the theme file/your custom css! (make sure to insert the link t
 
 /*Background brightness - change the 0.4 value to fit your liking. 0 is the brightest and 1 is solid black*/
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
-    background: rgba(0,0,0,0.65) !important;
+    background: rgba(0,0,0,0.4) !important;
 }
 
 /*Messy Transparency*/
