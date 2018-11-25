@@ -860,6 +860,10 @@ border-radius: 0;
 	border-color: var(--secondary-color-transparent);
 	border-width: 1px;
 }
+.theme-dark .add-game-popout {
+	background-color: var(--main-color);
+	border-radius: 0;
+}
 
 /*User Popout*/
 .userPopout-3XzG_A {
