@@ -1154,12 +1154,15 @@ border-radius: 0;
 
 /*Calendar*/
 .theme-dark .popout-3sVMXz {
+	background-color: var(--main-color);
+}
+.theme-dark .datePicker--XZbmJ {
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
-	background-color: var(--main-color);
 }
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
 	border-radius: 0;
+	background-color: var(--main-color);
 }
 .theme-dark .container-3ayLPN {
 	background-color: var(--main-color);
@@ -1233,7 +1236,7 @@ border-radius: 0;
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
-.theme-dark .messagesPopoutWrap-1MQ1bW {
+.theme-dark .themedPopout-25DgLi {
 	background-color: var(--main-color);
         border: solid 1px var(--secondary-color);
 	border-radius:0;
