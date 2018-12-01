@@ -1306,7 +1306,6 @@ border-radius: 0;
 }
 .resultsGroup-r_nuzN {
 	background-color: var(--main-color);
-	border: solid 1px var(--secondary-color) !important;
 	border-radius: 0;
 	border-top: none;
 }
