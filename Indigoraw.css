@@ -166,6 +166,7 @@
 }
 .theme-dark .menu-Sp6bN1 {
 	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
 .theme-dark .separator-2zcjq8 {
@@ -1155,6 +1156,7 @@ border-radius: 0;
 /*Calendar*/
 .theme-dark .popout-3sVMXz {
 	background-color: var(--main-color);
+	border-radius: 0;
 }
 .theme-dark .elevationBorderHigh-2WYJ09 {
         box-shadow: 0 0 0 1px var(--secondary-color), 0 0px 0px 1px var(--secondary-color);
