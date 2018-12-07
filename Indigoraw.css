@@ -1,6 +1,6 @@
 /*Scrollbars*/
 ::-webkit-scrollbar {
-	 width: 5px !important;
+	width: 5px !important;
 }
 ::-webkit-scrollbar-track-piece{
         background-color: transparent !important;
@@ -128,7 +128,7 @@
 	border: solid 1px var(--secondary-color);
 }
 .theme-dark .friendsOnline-_wi_fM, .theme-light .friendsOnline-_wi_fM {
-    color: white;
+        color: white;
 }
 .theme-dark .guild-1EfMGQ .guildInner-3DSoA4 a {
 	background-color: var(--accent-color-transparent);
