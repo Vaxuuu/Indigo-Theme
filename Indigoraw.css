@@ -686,7 +686,7 @@ border-radius: 0;
 	background-color: var(--secondary-color);
 }
 .lookFilled-1Gx00P.colorGreen-29iAKY {
-	background-color: var(--accent-color);
+	background-color: var(--accent-color) !important;
 	border-radius: 0;
 }
 .theme-dark .lookFilled-1Gx00P.hoverGreen-1gjdJc.hasHover-3X1-zV:hover {
