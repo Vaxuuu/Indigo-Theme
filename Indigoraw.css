@@ -825,6 +825,15 @@ border-radius: 0;
 .standardSidebarView-3F1I7i #editor-detached button:hover {
         background-color: var(--accent-color);
 }
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL {
+	background-color: var(--secondary-color);
+	border-radius: 0;
+	color: white;
+}
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL:hover, .theme-dark .topPill-30KHOu .item-PXvHYJ:hover:not(.itemSelected-1qLhcL) {
+	background-color: var(--accent-color-transparent);
+	border-radius: 0;
+}
 
 /*Custom CSS*/
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls, .ace-monokai .ace_gutter {
