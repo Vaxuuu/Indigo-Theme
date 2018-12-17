@@ -765,6 +765,9 @@ border-radius: 0;
 	border: solid 1px var(--secondary-color) !important;
 	border-radius: 0;
 }
+.theme-dark .auditLog-3jNbM6 {
+	border-color: var(--secondary-color);
+}
 .theme-dark .card-FDVird {
 	border-bottom: solid 1px var(--secondary-color-transparent);
 	border-top: solid 1px var(--secondary-color-transparent);
