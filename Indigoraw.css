@@ -617,6 +617,9 @@ border-radius: 0;
 }
 
 /*Settings and games tab*/
+.connection-1fbD7X, .connectionDelete-2Odoln {
+	border-radius: 0;
+}
 .theme-dark .sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP {
 	flex: 0.75;
 }
