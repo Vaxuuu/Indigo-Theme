@@ -539,9 +539,11 @@ border-radius: 0;
 	background-color: var(--accent-color)
 }
 .search-bar .search-bar-inner {
-	background-color: var(--secondary-color);
 	border: solid 1px var(--accent-color);
 	border-radius:0;
+}
+.theme-dark .search .search-bar {
+	background-color: var(--secondary-color-transparent);
 }
 .theme-dark .friendSelected--wQP3f {
 	background-color: var(--secondary-color-transparent);
