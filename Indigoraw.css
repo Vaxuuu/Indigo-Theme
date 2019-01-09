@@ -541,7 +541,7 @@ border-radius: 0;
 .search-bar .search-bar-inner {
 	border: solid 1px var(--accent-color);
 	border-radius:0;
-	background-color: var(--main-color-transparent);
+	background-color: var(--secondary-color-transparent);
 }
 .theme-dark .search .search-bar {
 	background-color: var(--secondary-color-transparent);
