@@ -306,6 +306,24 @@
 	background-color: var(--main-color);
 	left: 10px;
 }
+.theme-dark .header-1TOWci {
+	background-color: var(--main-color);
+        box-shadow: 0 1px 0 0 var(--secondary-color), 0 1px 0 0 var(--secondary-color);
+}
+.categoryFade-2ybR1J, .categoryFadeBlurple-1j72_A, .gif-1TcNIB {
+	border-radius: 0;
+}
+.theme-dark .focused-1En8bG:after, .theme-dark .result-3w1ZcL:hover:after {
+	box-shadow: none !important;
+	border: solid 4px var(--accent-color);
+	border-radius: 0;
+}
+.theme-dark .categoryFadeBlurple-1j72_A {
+	background-color: var(--accent-color-transparent);
+}
+.theme-dark .categoryFadeBlurple-1j72_A:hover {
+    background-color: var(--secondary-color-transparent);
+}
 .theme-dark .messagesWrapper-3lZDfY {
 	background-color: var(--main-color);
 }
