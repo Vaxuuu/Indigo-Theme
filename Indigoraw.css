@@ -954,6 +954,7 @@ border-radius: 0;
 	background-color: var(--secondary-color);
 	border: solid 1px var(--accent-color);
 	border-radius:0;
+	color: white;
 }
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover, .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
 	background-color: var(--accent-color);
