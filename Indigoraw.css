@@ -1085,7 +1085,7 @@ border-radius: 0;
 }
 
 /*Emoji List*/
-#bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap {
+#bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap, .searchBar-2_Yu-C.searchBarLight-1NxoDG {
         background-color: var(--main-color) !important;
 }
 .emoji-picker, .emojiPicker-3m1S-j, .emojiPicker-3m1S-j .header-1nkwgG .search-bar, .emojiPicker-3m1S-j .category-2U57w6 {
@@ -1113,7 +1113,7 @@ border-radius: 0;
         border-color: var(--secondary-color);
         padding-right: 0 !important;
 }
-.search-bar.search-bar-light .search-bar-inner {
+.searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {
         background-color: var(--secondary-color-transparent);
         border: solid 1px var(--accent-color);
         border-radius: 0 !important;
