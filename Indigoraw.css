@@ -1134,22 +1134,30 @@ border-radius: 0;
 	border: solid 1px var(--accent-color);
 	border-radius: 0;
 }
-.theme-dark .search-results-wrap .search-header {
+.theme-dark .searchHeader-1l-wpR {
 	background-color: var(--main-color);
 	border-left: solid 1px var(--secondary-color);
 	border-bottom: solid 1px var(--secondary-color);
 	border-radius:0;
 }
-.theme-dark .search-results-wrap .channel-separator .channel-name{
+.theme-dark .channelSeparator-1X1FuH .channelName-1QajIf {
 	background-color: var(--secondary-color-transparent);
 	padding-left: 10px;	
 }
-.theme-dark .search-results-wrap .channel-separator:before {
+.theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
+	background-color: var(--main-color);
+	border: 0;
+}
+.th.searchResult-3pzFAB:before, .theme-dark .channelSeparator-1X1FuH:before, .theme-dark .searchResult-3pzFAB:before, .theme-dark .searchResult-3pzFAB:after  {
 	display: none;
 }
-.theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .queryContainer-RKFJW- {
-	background-color: var(--main-color);
+.theme-dark .searchResult-3pzFAB.expanded-v2Szsz, .theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {
+	border: 0;
 	border-radius: 0;
+}
+.theme-dark .searchResult-3pzFAB .hit-NLlWXA {
+	background-color: var(--main-color);
+	box-shadow: none !important;
 }
 .theme-dark .queryContainer-RKFJW-:hover {
 	background-color: var(--secondary-color);
@@ -1163,20 +1171,11 @@ border-radius: 0;
 .theme-dark .elevationBorderHigh-2WYJ09 {
         margin-top: -11px;
 }
-.theme-dark .search-results-wrap .search-result .search-result-message.hit, .theme-dark .search-results-wrap .search-result.expanded {
-	border: none;
-}
-.theme-dark .search-results-wrap .search-result:after, .theme-dark .search-results-wrap .search-result:before {
-        display: none;
-}
-.theme-dark .search-results-wrap .search-result .hit {
-	box-shadow: none;
-}
-.theme-dark .search-results-wrap .action-buttons .jump-button {
+.theme-dark .jumpButton-Ia2hRJ {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
-.theme-dark .search-results-wrap .action-buttons .jump-button:hover {
+.theme-dark .jumpButton-Ia2hRJ:hover {
 	background-color: var(--secondary-color);
 }
 .theme-dark .option-96V44q.selected-rZcOL- {
