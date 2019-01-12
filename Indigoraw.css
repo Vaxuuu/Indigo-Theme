@@ -1,6 +1,6 @@
 /*Scrollbars*/
 ::-webkit-scrollbar {
-	width: 5px !important;
+	width: 3px !important;
 }
 ::-webkit-scrollbar-track-piece{
         background-color: transparent !important;
