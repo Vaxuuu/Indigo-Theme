@@ -1134,6 +1134,9 @@ border-radius: 0;
 }
 
 /*Search Function*/
+.theme-dark .focused-2bY0OD {
+	background-color: var(--main-color);
+}
 .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
 	background-color: var(--accent-color);
 	border-radius: 0;
