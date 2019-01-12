@@ -496,6 +496,7 @@ border-radius: 0;
 .searchBar-2_Yu-C .searchBarInner-1_Tg2R {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
+	border-radius: 0;
 }
 .theme-dark .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud{
 	border-top-color: var(--secondary-color);
@@ -572,7 +573,7 @@ border-radius: 0;
 	color: var(--accent-color);
 }
 .theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr, .theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableSuggestionsHeader-2zSnpD {
-	background-color: var(--main-color);
+	background: var(--main-color) !important;
 	border-bottom-color: var(--secondary-color);
 }
 .theme-dark .wrapper-1cBijl {
