@@ -628,6 +628,10 @@ border-radius: 0;
 }
 
 /*Settings and games tab*/
+.theme-dark .colorPickerCustom-2CWBn2 {
+	background-color: var(--main-color);
+	border-color: var(--secondary-color);
+}
 .theme-dark .codeRedemptionRedirect-1wVR4b {
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
