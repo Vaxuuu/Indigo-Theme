@@ -14,7 +14,7 @@ Just simply edit the colors in the :root! Preferably add semi-transparent versio
 Just add this to the theme file/your custom css! (make sure to insert the link to the image)
 ```css
 /*Background image*/
-.app-19_DXt {
+.appMount-3lHmkl {
     background-image: url("insert link here");
     background-size: cover;
     background-position: center;
