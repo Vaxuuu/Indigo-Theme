@@ -288,6 +288,9 @@
 	margin: 0;
 	top: 9px;
 }
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+	background-color: var(--main-color);
+}
 .theme-dark .inner-zqa7da {
 	left: 10px;
 	margin-right: 20px;
