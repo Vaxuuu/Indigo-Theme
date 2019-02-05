@@ -991,6 +991,10 @@ border-radius: 0;
 .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .autocompleteShadow-iiGWFU {
 	box-shadow: none !important;
 	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .container-VSDcQc .sectionTag-pXyto9 {
+	border: solid 1px var(--secondary-color);
 }
 .positionBottom-3oo9L9 .autocompleteArrowWrapper-3Z7OuM {
 	display: none;
