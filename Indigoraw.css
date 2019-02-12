@@ -640,6 +640,9 @@ border-radius: 0;
 	border-radius: 0;
 	background-color: var(--main-color);
 }
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+	background-color: var(--secondary-color-transparent);
+}
 .connection-1fbD7X, .connectionDelete-2Odoln {
 	border-radius: 0;
 }
