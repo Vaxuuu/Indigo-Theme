@@ -889,6 +889,29 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
+.theme-dark .header-1RC2Wb:hover {
+        background-color: var(--secondary-color-transparent);
+}
+.theme-dark .card-7JP0BX {
+        background-color: transparent;
+}
+.headerButtonColor-G7_f-V {
+        background-color: var(--secondary-color);
+        border-radius: 0;
+}
+.theme-dark .player-1kJMbj {
+        border-bottom-color: var(--accent-color-transparent);
+}
+.theme-dark .sectionLine-JjseS9 {
+        background-color: var(--accent-color-transparent);
+}
+.carousel-2WxMes, .paginationItem-2lUq0s, .paginationItem-2lUq0s:before, .news-2GDtLJ, .assetsLargeImageActivityFeed-25vA7H, .assetsLargeImageActivityFeedXbox-3Tr-tf, .assetsLargeImageProfile-3YXDex {
+        border-radius: 0;
+}
+.paginationItem-2lUq0s:before {
+        background-color: var(--secondary-color);
+}
+
 
 /*Custom CSS*/
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls, .ace-monokai .ace_gutter {
