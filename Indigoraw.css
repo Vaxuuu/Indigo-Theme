@@ -870,7 +870,7 @@
 .theme-dark .option-n0icdO:hover {
         background-color: var(--secondary-color-transparent);
 }
-.theme-dark .divider-3573oO, .theme-dark .separator-gCa7yv, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+.theme-dark .divider-3573oO, .theme-dark .separator-gCa7yv, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator, #bd-settingspane-container .ui-switch-item .style-description {
         background-color: var(--secondary-color-transparent);
 }
 .standardSidebarView-3F1I7i #editor-detached button {
