@@ -1069,6 +1069,22 @@
 .autocompleteScroller-iInVqR::-webkit-scrollbar {
     display: none;
 }
+.assetsLargeImageActivityFeed-25vA7H, .assetsLargeImageActivityFeedXbox-3Tr-tf, .assetsLargeImageProfile-3YXDex {
+    border-radius: 0;
+}  /*Roles*/  
+.role-2irmRk {
+    padding: 0;
+}
+.role-2irmRk, .roleCircleButton-377y0l, .member-perms .member-perm .perm-circle {
+    border-radius: 0;
+}
+.roleCircle-3xAZ1j, .member-perms .member-perm .perm-circle {
+    height: 20px;
+    width: 9px;
+}
+.addButton-pcyyf6 {
+    padding: 5px;
+}
 
 /*File sending*/
 .uploadModal-2ifh8j {
