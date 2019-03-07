@@ -262,6 +262,11 @@
 .avatarSpeaking-1wJCNq {
         box-shadow: 0 0 0 2px var(--accent-color);
 }
+.theme-dark .listeningAlong-2UPsxf {
+        background-color: var(--secondary-color);
+        margin: 0;
+        border-bottom: solid 3px var(--main-color);
+}
 
 /*User Tab Under Channel List*/
 .theme-dark .container-2Thooq {
