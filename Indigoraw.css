@@ -157,6 +157,20 @@
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
+.channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
+        background: transparent;
+        padding-top: 20px;
+        border-right: solid 1px var(--secondary-color);
+        border-bottom: solid 1px var(--secondary-color);
+}
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P {
+        color: white;
+}
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u {
+        background-color: var(--secondary-color);
+        border-radius: 0;
+        border-color: var(--accent-color-transparent);
+}
 .theme-dark .separator-2zcjq8 {
 	border-bottom-color: var(--secondary-color-transparent);
 }
