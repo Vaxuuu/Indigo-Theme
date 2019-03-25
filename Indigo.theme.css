@@ -1,11 +1,9 @@
 //META{"name":"Indigo","description":"A dark purple theme that you can customize. Not compatible with light mode. Special thanks to Lyn for pointing out a few mistakes and helping out with theming enabled settings.","author":"Vaxu","version":"1.5.3"}*//{}
 
-@import url('https://anti-betterdocs.github.io/BlockBetterDocs/BetterDocsBlockerVars.css');
-@import url(https://vaxuuu.github.io/Indigo-Theme/Indigoraw.css);
+@import url('https://vaxuuu.github.io/Indigo-Theme/Indigoraw.css');
 
  
 :root {
-	--BetterDocsBlockerWhite: #bbbbbb; /*really important, please do not change this var*/
 	--main-color: #000000; /*Responsible for the background color*/
 	--main-color-transparent: rgba(0,0,0,0.7); /*Preferably use the same color as in --main-color, but with decreased opacity via rgba, the same goes for the other transparent colors*/
 	--secondary-color: #4B0082; /*Responsible for all borders and buttons*/
