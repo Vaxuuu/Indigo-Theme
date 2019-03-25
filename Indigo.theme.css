@@ -5,6 +5,7 @@
 
  
 :root {
+	--BetterDocsBlockerWhite: #bbbbbb; /*really important, please do not change this var*/
 	--main-color: #000000; /*Responsible for the background color*/
 	--main-color-transparent: rgba(0,0,0,0.7); /*Preferably use the same color as in --main-color, but with decreased opacity via rgba, the same goes for the other transparent colors*/
 	--secondary-color: #4B0082; /*Responsible for all borders and buttons*/
