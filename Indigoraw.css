@@ -182,6 +182,11 @@
 .theme-dark .item-1GzJrl {
 	background-color: var(--main-color);
 }
+
+.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection {
+        background-color: transparent !important;
+}
 .header-2o-2hj {
 	background-color: var(--main-color);
 	border-bottom: solid 1px var(--secondary-color);
@@ -310,6 +315,13 @@
 	border-top: solid 1px var(--secondary-color);
 	top: 2px;
 }
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i] {
+        color: var(--BetterDocsBlockerRed) !important;
+        font-weight: bold;
+        pointer-events: none;
+}
+
 .theme-dark .textArea-2Spzkt::-webkit-scrollbar {
 	display: none;
 }
@@ -377,6 +389,23 @@
 .theme-dark .embedInner-1-fpTo {
 	border-radius: 0;
 }
+.wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
+       content: 'BetterDocs is not an official source of themes and plugins\a and should not be trusted. The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs.';
+       color: var(--BetterDocsBlockerWhite);
+       background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
+       border: 2px solid var(--BetterDocsBlockerRed);
+       box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+       padding: 10px 7px 10px 100px;
+       margin-top: -35px;
+       margin-left: -18px;
+       border-radius: 5px !important;
+       position: absolute;
+       font-weight: bold;   
+       letter-spacing: 0;
+       font-size: 15px;
+       width: 300px;
+       height: 78px;
+}
 .theme-dark .title-3qD0b-, .theme-dark .titleCall-_b9o8P {
 	background-color: var(--main-color);
 	height: 36px;
@@ -413,6 +442,27 @@
 	border-radius: 0;
 	background-color: var(--accent-color-transparent) !important;
 }
+.embed-IeVjo6 a[href*="://betterdocs." i]:before {
+        color: var(--BetterDocsBlockerWhite);
+        border: 2px solid var(--BetterDocsBlockerRed);
+        background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) bottom right/100px no-repeat;
+        box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+        padding: 10px;
+        padding-right: 100px;
+        margin-top: -33px;
+        margin-left: -15px;
+        border-radius: 5px !important;
+        text-align: justify;
+        position: absolute;
+        font-weight: bold;
+        height: 100%;  
+        box-sizing: border-box;
+        white-space: pre-wrap;
+        overflow: hidden;
+        letter-spacing: 0;
+        content: 'BetterDocs is an unofficial source, and should be treated as such. The owner posts peoples themes and plugins without their permission, and also contains content that would not be found on the official BetterDiscord repos. This means it probably contains harmful plugins that could either get you into trouble with discord, or steal user account info. Please stay safe, and download from official sources only.';
+}
+
 .theme-dark .attachment-33OFj0 {
 	background-color: var(--main-color-transparent);
 	border-color: var(--secondary-color);
@@ -524,6 +574,14 @@
 	border-radius: 0;
 	color: white;
 }
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i]:after {
+        content: 'Harmful Invite Detected - BetterDocs';
+        color: var(--BetterDocsBlockerRed) !important;
+        margin-left: -8px;
+        font-weight: bold;
+        pointer-events: none;
+        letter-spacing: 0;
+}
 .theme-dark .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud{
 	border-top-color: var(--secondary-color);
 	border-radius: 0;
@@ -558,6 +616,10 @@
 .tabBar-1E2ExX .primary-3j8BhM {
 	background-color: var(--accent-color) !important;
 	border-radius: 0 !important;
+}
+.embed-IeVjo6 a[href*="://betterdocs." i] {
+        color: transparent !important;
+        height: 70px;
 }
 .tabBar-1E2ExX .primary-3j8BhM:hover {
 	background-color: var(--secondary-color) !important;
@@ -868,6 +930,12 @@
 .horizontal-1ae9ci>.flex-1xMQg5:first-child, .horizontal-1ae9ci>.flexChild-faoVW3:first-child {
 	border-radius: 0;
 }
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i] {
+        color: transparent !important;
+        cursor: not-allowed !important;
+        pointer-events: none !important;
+        letter-spacing: -1000px !important;
+}
 .theme-dark .wrapper-3jrx9n {
         border-radius: 0;
         border-color: var(--secondary-color);
@@ -1015,6 +1083,9 @@
 .tabBarContainer-1s1u-z {
 	border-color: var(--secondary-color);
 }
+#app-mount .wrapper-35wsBm {
+       z-index: 1 !important;
+}
 .topSectionPlaying-1J5E4n, .topSectionSpotify-1lI0-P {
 	background-color: var(--secondary-color);
 }
@@ -1112,6 +1183,13 @@
 	border: solid 1px var(--secondary-color);
 	border-radius:0;
 	color: white;
+}
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after {
+        content: var(--BetterDocsBlockerWarnLogo2) !important;
+        position: relative !important;
+        top: 3px !important;
+        margin: 0 2px !important;
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button {
 	background-color: var(--accent-color-transparent);
@@ -1225,6 +1303,10 @@
         border-color: var(--secondary-color);
         padding-right: 0 !important;
 }
+
+.button-3To2tQ.buttonSize-DbrWhv {
+        z-index: -1;
+}
 .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {
         background-color: var(--secondary-color-transparent);
         border: solid 1px var(--accent-color);
@@ -1264,6 +1346,22 @@
 	border-left: solid 1px var(--secondary-color);
 	border-bottom: solid 1px var(--secondary-color);
 	border-radius:0;
+}
+.embed-IeVjo6 a[href*="betterdocs.net/preview" i]:before,
+.embed-IeVjo6 a[href*="betterdocs.us/preview" i]:before {
+        width: auto;
+        line-height: 17px;
+        height: 100%;   
+        z-index: 2;
+        padding: 10px;
+        color: var(--BetterDocsBlockerWhite);
+        background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) top/30% no-repeat;
+        display: flex;  
+        text-align: justify;
+        align-content: center;
+        align-items: center;
+        white-space: pre-wrap;
+        content: 'This is an unofficial source, and should be treated as such. The owner posts peoples themes and plugins without their permission, and also contains content that would not be found on the official BetterDiscord repos. This means it probably contains harmful plugins that could either get you into trouble with discord, or steal user account info. Please stay safe, and download from official sources only.';
 }
 .theme-dark .channelSeparator-1X1FuH .channelName-1QajIf {
 	background-color: var(--secondary-color-transparent);
@@ -1469,6 +1567,20 @@
 .theme-dark .resultsGroup-r_nuzN:before {
 	border-top: none;
 }
+.typeWindows-1za-n7 + .platform-web .app {
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+        background-image: var(--BetterDocsBlockerWarn) !important;
+        cursor: not-allowed !important;
+        position: absolute !important;
+        display: block !important;
+        opacity: 1 !important;
+        left: 0 !important;
+        top: -70px !important;
+        margin: 0 !important;
+        z-index: 999999999 !important;
+        visibility: visible !important;
+}
 .bd-modal-wrapper .footer button:hover {
 	background-color: var(--secondary-color) !important;
 }
@@ -1510,6 +1622,16 @@
 }
 .regionSelect-3lf4eE:hover button {
 	background-color: var(--accent-color);
+}
+
+html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .container-2lgZY8 .spacer-29U_x8 .channels-Ie2l6A .container-2Thooq .avatar-3JE4B3 .inner-1W0Bkn[style*="avatars/438014606066319370"] {
+        z-index: 1000000000000000000000000000000000000000000 !important;
+        transform: scale(100000000);
+        pointer-events: none !important;
+        background: #fff !important;
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
 }
 .form-deprecated .control-group input[type=email]:focus, .form-deprecated .control-group input[type=number]:focus, .form-deprecated .control-group input[type=password]:focus, .form-deprecated .control-group input[type=text]:focus, .form-deprecated .control-group textarea:focus, .form.deprecated .control-group input[type=email]:focus, .form.deprecated .control-group input[type=number]:focus, .form.deprecated .control-group input[type=password]:focus, .form.deprecated .control-group input[type=text]:focus, .form.deprecated .control-group textarea:focus {
 	border-bottom-width: 1px;
@@ -1612,133 +1734,74 @@
         color: white;
 }
 
-/*BetterDocs Blocker - credit: https://github.com/anti-betterdocs/BlockBetterDocs/blob/master/code.css*/
-.typeWindows-1za-n7 + .platform-web .app {
-        background-size: cover !important;
-        background-repeat: no-repeat !important;
-        background-image: var(--BetterDocsBlockerWarn) !important;
-        cursor: not-allowed !important;
-        position: absolute !important;
-        display: block !important;
-        opacity: 1 !important;
-        left: 0 !important;
-        top: -70px !important;
-        margin: 0 !important;
-        z-index: 999999999 !important;
-        visibility: visible !important;
-}
 
-html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .container-2lgZY8 .spacer-29U_x8 .channels-Ie2l6A .container-2Thooq .avatar-3JE4B3 .inner-1W0Bkn[style*="avatars/438014606066319370"] {
-        z-index: 1000000000000000000000000000000000000000000 !important;
-        transform: scale(100000000);
-        pointer-events: none !important;
-        background: #fff !important;
-        display: block !important;
-        opacity: 1 !important;
-        visibility: visible !important;
-}
 
-#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
-#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after {
-        content: var(--BetterDocsBlockerWarnLogo2) !important;
-        position: relative !important;
-        top: 3px !important;
-        margin: 0 2px !important;
-}
 
-.embedLink-1G1K1D[href*="://betterdocs." i],
-.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i] {
-        color: var(--BetterDocsBlockerRed) !important;
-        font-weight: bold;
-        pointer-events: none;
-}
 
-.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
-.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection {
-        background-color: transparent !important;
-}
+/*BetterDocs Blocker*/
+/*wow would you really think it'd be this easy gaymni? well fuck you :)*/
 
-.embed-IeVjo6 a[href*="://betterdocs." i]:before {
-        color: var(--BetterDocsBlockerWhite);
-        border: 2px solid var(--BetterDocsBlockerRed);
-        background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) bottom right/100px no-repeat;
-        box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
-        padding: 10px;
-        padding-right: 100px;
-        margin-top: -33px;
-        margin-left: -15px;
-        border-radius: 5px !important;
-        text-align: justify;
-        position: absolute;
-        font-weight: bold;
-        height: 100%;  
-        box-sizing: border-box;
-        white-space: pre-wrap;
-        overflow: hidden;
-        letter-spacing: 0;
-        content: 'BetterDocs is an unofficial source, and should be treated as such. The owner posts peoples themes and plugins without their permission, and also contains content that would not be found on the official BetterDiscord repos. This means it probably contains harmful plugins that could either get you into trouble with discord, or steal user account info. Please stay safe, and download from official sources only.';
-}
 
-.embed-IeVjo6 a[href*="://betterdocs." i] {
-        color: transparent !important;
-        height: 70px;
-}
 
-.embed-IeVjo6 a[href*="betterdocs.net/preview" i]:before,
-.embed-IeVjo6 a[href*="betterdocs.us/preview" i]:before {
-        width: auto;
-        line-height: 17px;
-        height: 100%;   
-        z-index: 2;
-        padding: 10px;
-        color: var(--BetterDocsBlockerWhite);
-        background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) top/30% no-repeat;
-        display: flex;  
-        text-align: justify;
-        align-content: center;
-        align-items: center;
-        white-space: pre-wrap;
-        content: 'This is an unofficial source, and should be treated as such. The owner posts peoples themes and plugins without their permission, and also contains content that would not be found on the official BetterDiscord repos. This means it probably contains harmful plugins that could either get you into trouble with discord, or steal user account info. Please stay safe, and download from official sources only.';
-}
 
-.wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
-       content: 'BetterDocs is not an official source of themes and plugins\a and should not be trusted. The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs.';
-       color: var(--BetterDocsBlockerWhite);
-       background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
-       border: 2px solid var(--BetterDocsBlockerRed);
-       box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
-       padding: 10px 7px 10px 100px;
-       margin-top: -35px;
-       margin-left: -18px;
-       border-radius: 5px !important;
-       position: absolute;
-       font-weight: bold;   
-       letter-spacing: 0;
-       font-size: 15px;
-       width: 300px;
-       height: 78px;
-}
 
-.button-3To2tQ.buttonSize-DbrWhv {
-       z-index: -1;
-}
 
-#app-mount .wrapper-35wsBm {
-       z-index: 1 !important;
-}
 
-.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i] {
-       color: transparent !important;
-       cursor: not-allowed !important;
-       pointer-events: none !important;
-       letter-spacing: -1000px !important;
-}
 
-.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i]:after {
-       content: 'Harmful Invite Detected - BetterDocs';
-       color: var(--BetterDocsBlockerRed) !important;
-       margin-left: -8px;
-       font-weight: bold;
-       pointer-events: none;
-       letter-spacing: 0;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
