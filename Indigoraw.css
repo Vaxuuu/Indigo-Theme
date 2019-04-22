@@ -182,7 +182,11 @@
 .theme-dark .item-1GzJrl {
 	background-color: var(--main-color);
 }
-
+.channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
+        background-color: var(--main-color) !important;
+        border-right: solid 1px var(--secondary-color);
+        border-bottom: solid 1px var(--secondary-color);
+}
 .embedLink-1G1K1D[href*="://betterdocs." i]::selection,
 .containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection {
         background-color: transparent !important;
