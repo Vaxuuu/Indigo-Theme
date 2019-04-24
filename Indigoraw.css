@@ -220,7 +220,7 @@
 .wrapper-CU3qI5 {
 	color: white;
 	text-align: center;
-	background-color: var(--sec-color);
+	background: linear-gradient(var(--accent-color-transparent), var(--secondary-color-transparent));
 	border: solid 1px var(--secondary-color);
 	width: 200px;
 	left: 20px;
