@@ -15,7 +15,7 @@
 
 /*Mention notifications*/
 .numberBadge-2s8kKX {
-	background-color: var(--secondary-color);
+	background-color: var(--secondary-color) !important;
 	border-radius: 0;
 	border: solid 1px var(--accent-color);
 }
