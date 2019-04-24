@@ -290,6 +290,18 @@
 .avatarSpeaking-3MqCHL {
         box-shadow: inset 0 0 0 2px var(--accent-color) !important;
 }
+.total-3tKGEB {
+        background-color: var(--secondary-color);
+}
+.users-i_3-kL {
+        background-color: var(--accent-color);
+}
+.total-3tKGEB:after {
+        border-right-color: var(--secondary-color);
+}
+.wrapper-pZmgj4 {
+        border-radius: 0;
+}
 .theme-dark .iconBadge-2wi9r4 {
         background-color: var(--accent-color);
         margin: 0;
@@ -526,11 +538,11 @@
 .theme-dark .membersGroup-v9BXpm  {
 	text-align: center;
 	color: white;
-	font-size: 13px;
-	background-color: var(--secondary-color-transparent);
+	background: linear-gradient(var(--accent-color-transparent), var(--secondary-color-transparent))
 	border: solid 1px var(--secondary-color);
 	margin-left: 5px;
-	padding-top: 10px;
+        padding: 5px;
+	height: auto;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4, .userHovered-2_fT4Z:active {
 	background-color: var(--secondary-color-transparent);
