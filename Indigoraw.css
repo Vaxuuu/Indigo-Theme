@@ -538,7 +538,7 @@
 .theme-dark .membersGroup-v9BXpm  {
 	text-align: center;
 	color: white;
-	background: linear-gradient(var(--accent-color-transparent), var(--secondary-color-transparent))
+	background: linear-gradient(var(--accent-color-transparent), var(--secondary-color-transparent));
 	border: solid 1px var(--secondary-color);
 	margin-left: 5px;
         padding: 5px;
