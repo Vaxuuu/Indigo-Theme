@@ -1,6 +1,9 @@
 # Indigo
 A dark purple theme that you can customize! Not compatible with light mode.
 
+# Latest Update - 2.5.3
+The latest Discord update motivated me to redesign the theme a little bit.
+
 # How to edit
 
 Just simply edit the colors in the :root! Preferably add semi-transparent versions using rgba in the transparent ones.
