@@ -1295,6 +1295,34 @@
 .lookFilled-1Gx00P.colorRed-1TFJan:hover, .lookFilled-1Gx00P.colorRed-1TFJan:active {
 	background-color: var(--accent-color);
 }
+.css-15ejc46-control, .css-1yegjoj-control {
+        background-color: var(--secondary-color-transparent);
+        border-color: var(--accent-color);
+        border-radius: 0;
+}
+.css-2yldzf-control:hover  {
+        border: solid 1px var(--secondary-color);
+}
+.css-2yldzf-control {
+        background-color: var(--secondary-color-transparent);
+        border-radius: 0;
+        border: solid 1px var(--secondary-color);
+        border-bottom: none;
+}
+.css-1aymab5-option {
+        background-color: var(--main-color);
+}
+.css-ua3v5p-menu {
+        border-color: var(--secondary-color);
+        border-radius: 0;
+        background-color: var(--main-color);
+}
+.css-1gnr91b-option {
+        background-color: var(--secondary-color-transparent);
+}
+.css-12o7ek3-option {
+        background-color: var(--secondary-color);
+}
 
 /*Auto Complete*/
 .autocompleteRowVertical-q1K4ky {
