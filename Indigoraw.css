@@ -1323,6 +1323,10 @@
 .css-12o7ek3-option {
         background-color: var(--secondary-color);
 }
+.css-181m2lf-menu {
+        border-color: var(--secondary-color);
+        border-radius: 0;
+}
 
 /*Auto Complete*/
 .autocompleteRowVertical-q1K4ky {
