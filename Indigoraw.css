@@ -1327,6 +1327,18 @@
         border-color: var(--secondary-color);
         border-radius: 0;
 }
+.theme-dark .modal-3v8ziU {
+        background-color: var(--main-color);
+        border-radius: 0;
+        border: solid 1px var(--secondary-color);
+        box-shadow: none;
+}
+.theme-dark .footer-30ewN8 {
+        background-color: var(--main-color);
+        border-radius: 0;
+        box-shadow: none;
+        border-top: solid 1px var(--secondary-color);
+}
 
 /*Auto Complete*/
 .autocompleteRowVertical-q1K4ky {
