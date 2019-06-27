@@ -99,6 +99,11 @@
 	background-color: var(--secondary-color);
 }
 
+/*That one gray bit that has been bothering me for months but I've only just now decided to fix*/
+.platform-win .base-3dtUhz {
+	border-radius: 0;
+}
+
 /*Server List*/
 .theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover {
 	background-color: var(--secondary-color);
