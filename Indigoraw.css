@@ -425,21 +425,24 @@
 	border-radius: 0;
 }
 .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
-       content: 'BetterDocs is not an official source of themes and plugins\a and should not be trusted. The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs.';
-       color: var(--BetterDocsBlockerWhite);
-       background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
-       border: 2px solid var(--BetterDocsBlockerRed);
-       box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
-       padding: 10px 7px 10px 100px;
-       margin-top: -35px;
-       margin-left: -18px;
-       border-radius: 5px !important;
-       position: absolute;
-       font-weight: bold;   
-       letter-spacing: 0;
-       font-size: 15px;
-       width: 300px;
-       height: 78px;
+        content: 'BetterDocs is not an official source of themes and plugins\a and should not be trusted. The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs.';
+        color: var(--BetterDocsBlockerWhite);
+        background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
+        border: 2px solid var(--BetterDocsBlockerRed);
+        box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+        padding: 10px 7px 10px 100px;
+        margin-top: -35px;
+        margin-left: -18px;
+        border-radius: 5px !important;
+        position: absolute;
+        font-weight: bold;   
+        letter-spacing: 0;
+        font-size: 15px;
+        width: 300px;
+        height: 78px;
+}
+body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.com" i]::after, body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdiscordlibrary.com" i]::after {
+        display: none;
 }
 .theme-dark .title-3qD0b-, .theme-dark .titleCall-_b9o8P {
 	background-color: var(--main-color);
