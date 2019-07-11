@@ -314,14 +314,14 @@
 }
 
 /*User Tab Under Channel List*/
-.theme-dark .container-2Thooq {
+.theme-dark .container-3baos1 {
 	height: 85px;
 	background-color: var(--main-color);
 	margin: 0;
 	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
 }
-.theme-dark .button-2b6hmh:hover {
+.theme-dark .button-2JbWXs:hover:not(.disabled-v9-Ysw) {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
