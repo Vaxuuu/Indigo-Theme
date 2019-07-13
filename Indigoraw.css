@@ -99,8 +99,8 @@
 	background-color: var(--secondary-color);
 }
 
-/*That one gray bit that has been bothering me for months but I've only just now decided to fix*/
-.platform-win .base-3dtUhz {
+/*That one (actually two) gray bit(s) that has been bothering me for months but I've only just now decided to fix*/
+.platform-win .base-3dtUhz, .theme-dark .wrapper-1Rf91z {
 	border-radius: 0;
 }
 
@@ -149,6 +149,9 @@
 }
 
 /*Server Name, Channel List*/
+.popout-2iWAc- {
+	border-radius: 0;
+}
 .name-3YKhmS {
 	text-align: center;
 }
