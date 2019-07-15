@@ -1579,6 +1579,20 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
+.theme-dark .header-ykumBX {
+        background-color: var(--main-color);
+        border-radius: 0;
+}
+.theme-dark .messagesPopoutWrap-1MQ1bW {
+        border: solid 1px var(--secondary-color);
+        border-radius: 0;
+}
+.headerTabBarWrapper-27xBDe .tabBar-2UKwcE .tabBarItem-1Cg-MI[style="border-color: rgb(255, 255, 255); color: rgb(255, 255, 255);"] {
+        border-color: var(--secondary-color) !important;
+}
+.headerTabBarWrapper-27xBDe .tabBar-2UKwcE .tabBarItem-1Cg-MI[style="border-color: rgba(255, 255, 255, 0.1); color: rgba(255, 255, 255, 0.6);"] {
+        border-color: var(--secondary-color-transparent) !important;
+}
 .themedPopout-25DgLi .header-SsaQ8X {
 	background-color: var(--main-color);
 }
@@ -1857,7 +1871,7 @@ html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .conta
 
 
 /*BetterDocs Blocker*/
-/*wow would you really think it'd be this easy gaymni? well fuck you :)*/
+/*wow would you really think it'd be this easy gaymni? well heck off :)*/
 
 
 
