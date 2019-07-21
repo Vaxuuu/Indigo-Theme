@@ -555,15 +555,13 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         padding: 5px;
 	height: auto;
 }
-.theme-dark .member-3W1lQa:hover .content-OzHfo4, .userHovered-2_fT4Z:active {
-	background-color: var(--secondary-color-transparent);
-	border-radius: 0;
+.theme-dark .member-3W1lQa:hover {
+        background-color: var(--secondary-color-transparent);
+} 
+.theme-dark .member-3W1lQa:active, .theme-dark .member-3W1lQa.popout-open, .theme-dark .member-3W1lQa.popout-open:hover {
+        background-color: var(--accent-color-transparent);
 }
 .theme-dark .member-3W1lQa {
-	border-radius: 0;
-}
-.theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
-	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
 .operations-36ENbA>a {
