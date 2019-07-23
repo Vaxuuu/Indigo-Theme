@@ -334,6 +334,10 @@
 .theme-dark .status-oxiHuE {
         border: solid 1px var(--accent-color) !important;
 }
+.container-1giJp5, .pingStatus-Jv9VGK {
+	background-color: var(--main-color);
+	border-top: solid 1px var(--secondary-color);
+}
 
 /*Chat*/
 .theme-dark .chat-3bRxxu form{
