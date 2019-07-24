@@ -9,7 +9,7 @@ The latest Discord update motivated me to redesign the theme a little bit.
 Just simply edit the colors in the :root! Preferably add semi-transparent versions using rgba in the transparent ones.
  
 # Quick Preview
-![My Image](https://cdn.discordapp.com/attachments/477916496673112066/570576876746178570/Discord_otDGDhTspi.png)
+![My Image](https://cdn.discordapp.com/attachments/477916496673112066/603709142099558402/Discord_20e0KPh2Wj.png)
 ![My Image](https://cdn.discordapp.com/attachments/477916496673112066/570576880533766154/Discord_4vqTwfviNJ.png)
 ![My Image](https://cdn.discordapp.com/attachments/477916496673112066/570576878457585664/Discord_lio080YMP6.png)
 
