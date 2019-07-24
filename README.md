@@ -15,6 +15,7 @@ Just simply edit the colors in the :root! Preferably add semi-transparent versio
 
 # How to set a background image
 Just add this to the theme file/your custom css! (make sure to insert the link to the image)
+|A quick warning - the code below may not be working properly anymore - to be honest, I got lost in this excuse of a snippet and the Discord updates didn't help at all. I'll fix it when I have enough motivation to actually sort this mess|
 ```css
 /*Background image*/
 .appMount-3lHmkl {
