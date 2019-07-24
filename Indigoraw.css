@@ -54,14 +54,24 @@
 	color: var(--accent-color);
 }
 
-/*TitleBar*/
+/*TitleBar and the watermark*/
 .directionRowReverse-m8IjIq {
 	background-color: var(--main-color);
-	margin: 0;
+	margin-top: 2px;
 }
-.wordmark-2iDDfm {
-	color: white;
+#app-mount .directionRowReverse-m8IjIq .wordmark-2iDDfm:after {
+        content: '1' !important;
+	background-image: url("https://i.imgur.com/5PEuxUZ.png")  !important;
+        background-position: center !important;
+	background-size: cover !important;
+        display: block !important;
+	height: 10px !important;
+	padding-top: 0px !important;
+	width: 44px !important;
+	margin-top: -13px !important;
+	margin-left: 58px !important;
 }
+
 
 /*MemberCount plugin*/
 .theme-dark #memberCount{
