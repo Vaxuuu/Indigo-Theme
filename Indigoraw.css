@@ -54,7 +54,7 @@
 	color: var(--accent-color);
 }
 
-/*TitleBar and the watermark*/
+/*TitleBar and watermark*/
 .directionRowReverse-m8IjIq {
 	background-color: var(--main-color);
 	margin-top: 2px;
@@ -121,7 +121,7 @@
 .wrapper-25eVIn mask{
         display: none;
 }
-.theme-dark .button-OhfaWu {
+.theme-dark .button-OhfaWu, .RANbutton {
 	border-radius: 0;
 }
 .theme-dark .circleIconButton-jET_ig {
