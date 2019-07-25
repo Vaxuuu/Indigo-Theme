@@ -4,7 +4,7 @@ A dark purple theme that you can customize! Not compatible with light mode.
 # Latest Update - 2.5.3
 The latest Discord update motivated me to redesign the theme a little bit.
 
-Latest "Hidden" Update (too small to make it into a new version) - added a watermark (don't worry, it's small enough it won't bother you)
+Latest "Hidden" Update (too small to make it into a new version) - made the theme more consistent with dividers
 
 # How to edit
 
@@ -17,6 +17,7 @@ Just simply edit the colors in the :root! Preferably add semi-transparent versio
 
 # How to set a background image
 Just add this to the theme file/your custom css! (make sure to insert the link to the image)
+
 |A quick warning - the code below may not be working properly anymore - to be honest, I got lost in this excuse of a snippet and the Discord updates didn't help at all. I'll fix it when I have enough motivation to actually sort this mess|
 ```css
 /*Background image*/
