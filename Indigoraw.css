@@ -115,6 +115,11 @@
 	border-radius: 0;
 }
 
+/*Button Margins*/
+.lookFilled-1Gx00P.colorRed-1TFJan, .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6 {
+        margin-top: 15px;
+}
+
 /*Server List*/
 .theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover {
 	background-color: var(--secondary-color);
