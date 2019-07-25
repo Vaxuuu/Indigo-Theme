@@ -1195,6 +1195,9 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .activity-11LB_k {
 	background-color: var(--secondary-color);
 }
+.assetsLargeImageUserPopout-3Pp8BK, .assetsLargeImageUserPopoutXbox-2hgKt0 {
+        border-radius: 0;
+}
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
 	background-color: var(--main-color);
 }
