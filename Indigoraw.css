@@ -122,6 +122,9 @@
 .wrapper-25eVIn mask{
         display: none;
 }
+.theme-dark .dragInner-_SHftW {
+        background-color: var(--secondary-color-transparent);
+}
 .theme-dark .button-OhfaWu, .RANbutton, .guildsError-b7zR5H {
 	border-radius: 0;
 }
