@@ -179,10 +179,10 @@
 .folderIconWrapper-226oVY[style="background-color: rgba(114, 137, 218, 0.2);"] {
         background-color: transparent !important;
 }
-.folderIconWrapper-226oVY, .iconInactive-98JN5i, .noIcon-1a_FrS {
+.folderIconWrapper-226oVY, .iconInactive-98JN5i {
         border-radius: 0 !important;
 }
-.theme-dark .acronym-2mOFsV.nested-1eglu6 {
+.theme-dark .acronym-2mOFsV.nested-1eglu6, .noIcon-1a_FrS {
         background-color: var(--secondary-color);
 }
 .theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-dark .folder-21wGz3.hover-2ji_A7 {
