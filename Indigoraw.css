@@ -159,6 +159,36 @@
 	background-color: var(--accent-color);
 }
 
+/*Server Folders*/
+.theme-dark .expandedFolderBackground-2sPsd- {
+        background-color: var(--secondary-color-transparent);
+        border-radius: 0;
+        min-height: 49px;
+}
+.theme-dark .folder-21wGz3 {
+        background-color: var(--secondary-color-transparent);
+}
+.theme-dark .root-1gCeng {
+        background-color: var(--main-color);
+        border: solid 1px var(--secondary-color);
+        border-radius: 0;
+}
+.theme-dark .root-1gCeng .lookFilled-1Gx00P.colorBrand-3pXr91 {
+        margin-top: 15px;
+}
+.folderIconWrapper-226oVY[style="background-color: rgba(114, 137, 218, 0.2);"] {
+        background-color: transparent !important;
+}
+.folderIconWrapper-226oVY, .iconInactive-98JN5i {
+        border-radius: 0 !important;
+}
+.theme-dark .acronym-2mOFsV.nested-1eglu6 {
+        background-color: var(--secondary-color);
+}
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-dark .folder-21wGz3.hover-2ji_A7 {
+        background-color: var(--accent-color-transparent);
+}
+
 /*Server Name, Channel List*/
 .popout-2iWAc- {
 	border-radius: 0;
