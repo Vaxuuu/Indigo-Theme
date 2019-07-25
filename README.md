@@ -1,10 +1,10 @@
 # Indigo
 A dark purple theme that you can customize! Not compatible with light mode.
 
-# Latest Update - 2.5.3
-The latest Discord update motivated me to redesign the theme a little bit.
+# Latest Update - 2.6.3
+Themed server folders.
 
-Latest "Hidden" Update (too small to make it into a new version) - made the theme more consistent with dividers
+Latest "Hidden" Update (too small to make it into a new version) - made the theme more consistent with dividers.
 
 # How to edit
 
