@@ -169,9 +169,9 @@
 
 /*Server Folders*/
 .theme-dark .expandedFolderBackground-2sPsd- {
-        background-color: var(--secondary-color-transparent);
+        background-color: var(--secondary-color-transparent) !important;
         border-radius: 0;
-        min-height: 49px;
+        min-height: 48px;
 }
 .theme-dark .folder-21wGz3 {
         background-color: var(--secondary-color-transparent);
