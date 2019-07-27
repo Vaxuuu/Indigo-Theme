@@ -1345,23 +1345,6 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 
 /*Kick/Ban Popout*/
-.Select .Select-menu {
-	background-color: var(--main-color);
-	border: solid 1px var(--secondary-color);
-	border-radius: 0;
-}
-.Select--single>.Select-control .Select-value, .Select-placeholder {
-	border: 1px solid var(--secondary-color);
-	border-radius: 0;
-}
-.theme-dark .select-2TCrqx .Select-option.is-focused, .theme-dark .select-2TCrqx .Select-option:hover{
-	background-color: var(--secondary-color-transparent);
-}
-.theme-dark .ui-standard-sidebar-view, .theme-dark .modal-3HD5ck {
-	background-color: var(--main-color);
-	border: solid 1px var(--secondary-color);
-        border-radius: 0;
-}
 .theme-dark .input-cIJ7To, .theme-dark .input-cIJ7To:hover, .theme-dark .input-cIJ7To:focus {
 	background-color: var(--secondary-color-transparent);
 	border-color: var(--accent-color);
@@ -1405,6 +1388,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .css-181m2lf-menu {
         border-color: var(--secondary-color);
         border-radius: 0;
+	background-color: var(--main-color);
 }
 .theme-dark .modal-yWgWj- {
         background-color: var(--main-color);
@@ -1489,7 +1473,6 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         border-color: var(--secondary-color);
         padding-right: 0 !important;
 }
-
 .button-3To2tQ.buttonSize-DbrWhv {
         z-index: -1;
 }
@@ -1885,19 +1868,6 @@ html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .conta
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
-#autocomplete-popout header {
-        background-color: var(--main-color);
-}
-#autocomplete-popout {
-        border-radius: 0;
-        border: solid 1px var(--secondary-color);
-}
-.theme-dark #autocomplete-popout .row.selected {
-        background: var(--secondary-color-transparent);
-}
-#autocomplete-popout .autocomplete-scroller::-webkit-scrollbar {
-        display: none;
-}
 .theme-dark .itemGroup-1tL0uz {
 	border-color: var(--secondary-color-transparent);
 }
@@ -1937,9 +1907,6 @@ html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .conta
 
 
 
-
-/*BetterDocs Blocker*/
-/*wow would you really think it'd be this easy gaymni? well heck off :)*/
 
 
 
