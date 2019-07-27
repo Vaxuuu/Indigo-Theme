@@ -368,6 +368,12 @@
         border-bottom: solid 3px var(--main-color);
 }
 
+/*"Hey, did you know that you can give us your money?" tab*/
+.channelNotices-41mJbj .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
+	background-color: var(--main-color);
+	border-right: solid 1px var(--secondary-color);
+	border-bottom: solid 1px var(--secondary-color);
+}
 /*User Tab Under Channel List*/
 .theme-dark .container-3baos1 {
 	height: 85px;
