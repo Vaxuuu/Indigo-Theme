@@ -127,6 +127,9 @@
 .wrapper-25eVIn mask{
         display: none;
 }
+.wrapper-1Rf91z foreignObject {
+        mask: none;
+}
 .theme-dark .dragInner-_SHftW {
         background-color: var(--secondary-color-transparent) !important;
 }
