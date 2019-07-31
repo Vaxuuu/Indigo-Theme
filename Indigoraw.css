@@ -416,6 +416,9 @@
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
 	background-color: var(--main-color);
 }
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+        border-radius: 0;
+}
 .theme-dark .inner-zqa7da {
 	left: 10px;
 	margin-right: 20px;
