@@ -54,6 +54,11 @@
 	color: var(--accent-color);
 }
 
+/*Quote blocks*/
+.theme-dark .markup-2BOw-j blockquote {
+        border-color: var(--secondary-color);
+}
+
 /*TitleBar and watermark*/
 .directionRowReverse-m8IjIq {
 	background-color: var(--main-color);
