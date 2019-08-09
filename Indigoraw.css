@@ -1148,6 +1148,22 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         background-color: var(--secondary-color);
 }
 
+/*Call buttons, region picker*/
+.wrapper-29NfPK .actions-2vadYq .exitButton-1DkWLl {
+        margin-top: 0;
+}
+.theme-dark .quickSelectPopout-X1hvgV {
+        background-color: var(--main-color);
+        border: solid 1px var(--secondary-color);
+}
+.theme-dark .quickSelectPopoutOption-opKBx9:hover {
+        background-color: var(--secondary-color-transparent);
+}
+.theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {
+        border-radius: 0;
+        border: solid 1px var(--secondary-color);
+        background-color: var(--main-color);
+}
 
 /*Custom CSS*/
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls, .ace-monokai .ace_gutter {
