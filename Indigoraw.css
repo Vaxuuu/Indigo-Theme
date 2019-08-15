@@ -891,7 +891,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         border-radius: 0;
 }
 .theme-dark .game-1ipmAa {
-        box-shadow: 0 !important;
+        box-shadow: none !important;
 }
 .theme-dark .side-8zPYf6 .item-PXvHYJ, .theme-dark #bd-settings-sidebar .ui-tab-bar-item {
         padding: 3px 10px 3px 10px;
