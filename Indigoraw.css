@@ -216,9 +216,6 @@
 .name-3YKhmS {
 	text-align: center;
 }
-.header-2o-2hj {
-        height: 34px;
-}
 .container-PNkimc {
 	background-color: var(--main-color);
 }
@@ -315,6 +312,9 @@
 	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 	margin-right: 4px;
+}
+.theme-dark .wrapper-1ucjTd:active .content-3at_AU {
+	background-color: var(--accent-color-transparent);
 }
 .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU {
 	background-color: var(--secondary-color-transparent);
