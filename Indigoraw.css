@@ -202,6 +202,9 @@
 .folderIconWrapper-226oVY, .iconInactive-98JN5i {
         border-radius: 0 !important;
 }
+.folderIconWrapper-226oVY[style="background-color: rgba(155, 89, 182, 0.2);"] {
+	background-color: transparent);
+}
 .theme-dark .acronym-2mOFsV.nested-1eglu6, .noIcon-1a_FrS {
         background-color: var(--secondary-color);
 }
