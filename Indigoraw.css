@@ -144,6 +144,12 @@
         box-shadow: none !important;
 }
 
+/*Notification Settings*/
+.theme-dark .notificationsSound-27jFSh {
+	box-shadow: none !important;
+	border-bottom: solid 1px var(--secondary-color);
+}
+
 /*Server List*/
 .theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover {
 	background-color: var(--secondary-color);
@@ -1075,7 +1081,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .theme-dark .card-FDVird:before {
 	background-color: var(--main-color);
-	border-color: var(--secondary-color);
+	border-color: var(--secondary-color) !important; 
 	border-radius: 0;
 }
 .container-CpszHS:not(.disabled-29eJ21):hover {
