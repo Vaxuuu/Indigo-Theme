@@ -122,8 +122,26 @@
 }
 
 /*Button Margins*/
-.lookFilled-1Gx00P.colorRed-1TFJan, .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookFilled-1Gx00P.colorBrand-3pXr91 {
+.lookFilled-1Gx00P.colorRed-1TFJan, .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookFilled-1Gx00P.colorBrand-3pXr91, .lookLink-9FtZy-.colorRed-1TFJan {
         margin-top: 15px;
+}
+
+/*Role search pop-out in members list*/
+.theme-dark .popoutList-T9CKZQ {
+        background-color: var(--main-color);
+        border: solid 1px var(--secondary-color);
+        border-radius: 0;
+}
+.theme-dark .selectableItem-1MP3MQ:hover {
+        background-color: var(--secondary-color-transparent);
+}
+.theme-dark .selectableItem-1MP3MQ {
+        border-radius: 0;
+}
+
+/*Box shadow for last member/ban in server settings*/
+.theme-dark .bannedUser-1IalTM, .theme-dark .member-1q7VfX {
+        box-shadow: none !important;
 }
 
 /*Server List*/
