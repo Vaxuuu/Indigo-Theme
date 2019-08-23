@@ -884,6 +884,9 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border-radius: 0;
 	background-color: var(--main-color);
 }
+.theme-dark .side-8zPYf6 .item-PXvHYJ[style="color: rgb(114, 137, 218); background-color: rgba(114, 137, 218, 0.1);"] {
+        background-color: var(--secondary-color-transparent) !important;
+}
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
 	background-color: var(--secondary-color-transparent);
 }
