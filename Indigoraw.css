@@ -404,6 +404,31 @@
         border-bottom: solid 3px var(--main-color);
 }
 
+/*Instant streaming tab*/
+.content-N9xlZF {
+	background-color: var(--main-color);
+	border-radius: 0;
+	border: solid 1px var(--secondary-color);
+}
+.pointer-2Cnz1N {
+	display: none;
+}
+.content-N9xlZF .button-1ZJXzu {
+	background-color: var(--main-color);
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+	color: var(--accent-color);
+}
+.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
+	background-color: var(--secondary-color-transparent);
+}
+.theme-dark .panel-VoWSbJ, .theme-light .panel-VoWSbJ {
+	background-color: var(--secondary-color);
+}
+.activityPanel-28dQGo {
+	border: 0;
+}
+
 /*"Hey, did you know that you can give us your money?" tab*/
 .channelNotices-41mJbj .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
 	background-color: var(--main-color);
