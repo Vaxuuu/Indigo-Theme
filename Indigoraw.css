@@ -404,6 +404,14 @@
         border-bottom: solid 3px var(--main-color);
 }
 
+/*dragging people in calls*/
+.theme-dark .listDefault-2y5Z9D .clickable-23RaYz:active .content-3xS9Lh {
+	background-color: var(--secondary-color-transparent);
+}
+.containerUserOver-1U5YnL:after {
+	border-radius: 0;
+}
+
 /*Instant streaming tab*/
 .content-N9xlZF {
 	background-color: var(--main-color);
