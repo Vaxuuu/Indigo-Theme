@@ -917,6 +917,9 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border-radius: 0;
 	background-color: var(--main-color);
 }
+.standardSidebarView-3F1I7i .lookFilled-1Gx00P.colorBrand-3pXr91 /*button in account tab*/ {
+        margin-top: 0;
+}
 .theme-dark .side-8zPYf6 .item-PXvHYJ[style="color: rgb(114, 137, 218); background-color: rgba(114, 137, 218, 0.1);"] {
         background-color: var(--secondary-color-transparent) !important;
 }
