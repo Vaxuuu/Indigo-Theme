@@ -151,7 +151,7 @@
 }
 
 /*Server List*/
-.theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover {
+.theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover, #bd-pub-button {
 	background-color: var(--secondary-color);
 }
 .wrapper-25eVIn mask{
@@ -163,7 +163,7 @@
 .theme-dark .dragInner-_SHftW {
         background-color: var(--secondary-color-transparent) !important;
 }
-.theme-dark .button-OhfaWu, .RANbutton, .guildsError-b7zR5H {
+.theme-dark .button-OhfaWu, .RANbutton, .guildsError-b7zR5H, #bd-pub-button {
 	border-radius: 0 !important;
 }
 .theme-dark .circleIconButton-jET_ig {
