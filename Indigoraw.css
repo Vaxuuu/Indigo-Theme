@@ -494,6 +494,9 @@
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
 	background-color: var(--main-color);
 }
+.attachButtonDivider-3Glu60 {
+	background-color: var(--accent-color-transparent);
+}
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
         border-radius: 0;
 }
