@@ -20,6 +20,13 @@
 	border: solid 1px var(--accent-color);
 }
 
+/*Context menu*/
+.contextMenu-HLZMGh {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+	background-color: var(--main-color);
+}
+
 /*Highlights*/
 *::selection {
 	background: var(--accent-color);
@@ -117,7 +124,7 @@
 }
 
 /*That one (actually two) gray bit(s) that has been bothering me for months but I've only just now decided to fix*/
-.platform-win .base-3dtUhz, .theme-dark .wrapper-1Rf91z {
+.platform-win .base-3dtUhz, .theme-dark .wrapper-1Rf91z, .platform-win .sidebar-2K8pFh {
 	border-radius: 0;
 }
 
@@ -126,7 +133,7 @@
         margin-top: 15px;
 }
 
-/*Role search pop-out in members list*/
+/*Role search pop-out in ]*/
 .theme-dark .popoutList-T9CKZQ {
         background-color: var(--main-color);
         border: solid 1px var(--secondary-color);
@@ -151,6 +158,12 @@
 }
 
 /*Server List*/
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+        background-color: var(--accent-color);
+}
+.childWrapper-anI2G9 {
+        background-color: var(--secondary-color);
+}
 .theme-dark .acronym-2mOFsV, .theme-light .acronym-2mOFsV, .theme-dark .button-OhfaWu, .theme-light .button-OhfaWu, .theme-dark .button-OhfaWu.selected-wSa2KV, .theme-dark .acronym-2mOFsV.selected-bZ3Lue, .theme-dark .acronym-2mOFsV:hover, #bd-pub-button {
 	background-color: var(--secondary-color);
 }
@@ -240,6 +253,10 @@
 .popout-2iWAc- {
 	border-radius: 0;
 }
+.platform-win .sidebar-2K8pFh .scrollerWrap-2lJEkd {
+        border-right: solid 1px var(--secondary-color);
+        border-left: solid 1px var(--secondary-color);
+}
 .name-3YKhmS {
 	text-align: center;
 }
@@ -292,9 +309,7 @@
 }
 .header-2o-2hj {
 	background-color: var(--main-color);
-	border-bottom: solid 1px var(--secondary-color);
-	border-top: solid 1px var(--secondary-color);
-	border-right: solid 1px var(--secondary-color);
+	border: solid 1px var(--secondary-color);
 	height: 36px;
 }
 .header-2o-2hj:hover {
@@ -450,13 +465,11 @@
 	margin: 0;
 	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
+	border-left: solid 1px var(--secondary-color);
 }
-.theme-dark .button-2JbWXs:hover:not(.disabled-v9-Ysw) {
+.button-14-BFJ.enabled-2cQ-u7:hover {
 	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
-}
-.container-2Thooq .avatar-3JE4B3 {
-        border-radius: 0;
 }
 .theme-dark .status-oxiHuE {
         border: solid 1px var(--accent-color) !important;
@@ -551,7 +564,7 @@
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI {
 	color: var(--accent-color);
 }
-.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before, .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
+.dividerRed-MKoLlr .dividerContent-2L12VI:after, .dividerRed-MKoLlr .dividerContent-2L12VI:before {
 	border-color: transparent;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
@@ -692,11 +705,13 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         padding: 5px;
 	height: auto;
 }
-.theme-dark .member-3W1lQa:hover {
+.theme-dark .member-3W1lQa:hover,.clickable-1JJAn8:hover .layout-2DM8Md {
         background-color: var(--secondary-color-transparent);
+	border-radius: 0;
 } 
-.theme-dark .member-3W1lQa:active, .theme-dark .member-3W1lQa.popout-open, .theme-dark .member-3W1lQa.popout-open:hover {
+.theme-dark .member-3W1lQa:active, .theme-dark .member-3W1lQa.popout-open, .theme-dark .member-3W1lQa.popout-open:hover, .selected-aXhQR6 .layout-2DM8Md {
         background-color: var(--accent-color-transparent);
+	border-radius: 0;
 }
 .theme-dark .member-3W1lQa {
 	border-radius: 0;
@@ -717,6 +732,10 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 
 /*Friends Tab, DM list*/
+.privateChannels-1nO12o .scrollerWrap-2lJEkd {
+        border-right: solid 1px var(--secondary-color);
+        border-left: solid 1px var(--secondary-color);
+}
 .scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
 }
@@ -731,12 +750,12 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	color: white;
         border: solid 2px var(--secondary-color);
 }
-.theme-dark .channel-2QD9_O.selected-1HYmZZ a {
-	background-color: var(--secondary-color-transparent);
+.selected-aXhQR6 .layout-2DM8Md {
+	background-color: var(--accent-color-transparent);
 	border-radius: 0;
 }
-.theme-dark .channel-2QD9_O:hover a {
-	background-color: var(--accent-color-transparent);
+.clickable-1JJAn8.container-2Pjhx-:hover {
+	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 {
@@ -745,9 +764,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .searchBar-6Kv8R2 {
 	height: 34px;
 	background-color: var(--main-color);
-	border-top: solid 1px var(--secondary-color);
-	border-bottom: solid 1px var(--secondary-color);
-	border-right: solid 1px var(--secondary-color);
+	border: solid 1px var(--secondary-color);
 }
 .theme-dark .searchBar-3dMhjb, .theme-dark .container-cMG81i, .theme-dark .container-2XeR5Z {
 	background-color: var(--secondary-color-transparent);
