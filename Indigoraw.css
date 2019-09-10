@@ -243,7 +243,7 @@
 .folderIconWrapper-226oVY, .iconInactive-98JN5i {
         border-radius: 0 !important;
 }
-.folderIconWrapper-226oVY[style="background-color: rgba(155, 89, 182, 0.2);"] {
+.folderIconWrapper-226oVY[style="background-color: rgba(155, 89, 182, 0.2);"], .folderIconWrapper-226oVY[style="background-color: rgba(155, 89, 182, 0.4);"] {
 	background-color: transparent !important;
 }
 .theme-dark .acronym-2mOFsV.nested-1eglu6, .noIcon-1a_FrS {
@@ -569,7 +569,7 @@
 	color: var(--accent-color);
 }
 .dividerRed-MKoLlr .dividerContent-2L12VI:after, .dividerRed-MKoLlr .dividerContent-2L12VI:before {
-	border-color: transparent;
+	background-color: transparent;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
 	background-color: var(--secondary-color-transparent);
