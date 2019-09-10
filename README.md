@@ -4,7 +4,7 @@ A dark purple theme that you can customize! Not compatible with light mode.
 # Latest Update - 2.7.3
 Fixed the theme after Discord fucked it without consent
 
-Latest "Hidden" Update (too small to make it into a new version) - made the theme more consistent with dividers.
+Latest "Hidden" Update (too small to make it into a new version) - fixed the ugly color of server folders
 
 # How to edit
 
