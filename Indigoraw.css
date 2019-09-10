@@ -26,6 +26,10 @@
 	border-radius: 0;
 	background-color: var(--main-color);
 }
+.clickable-11uBi-:hover, .selected-BYpGTS {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
 
 /*Highlights*/
 *::selection {
