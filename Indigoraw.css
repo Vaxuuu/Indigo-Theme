@@ -741,7 +741,6 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 /*Friends Tab, DM list*/
 .privateChannels-1nO12o .scrollerWrap-2lJEkd {
         border-right: solid 1px var(--secondary-color);
-        border-left: solid 1px var(--secondary-color);
 }
 .scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
