@@ -259,7 +259,6 @@
 }
 .platform-win .sidebar-2K8pFh .scrollerWrap-2lJEkd {
         border-right: solid 1px var(--secondary-color);
-        border-left: solid 1px var(--secondary-color);
 }
 .name-3YKhmS {
 	text-align: center;
@@ -314,6 +313,7 @@
 .header-2o-2hj {
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
+	border-left: 0;
 	height: 36px;
 }
 .header-2o-2hj:hover {
@@ -470,7 +470,6 @@
 	margin: 0;
 	border-top: solid 1px var(--secondary-color);
 	border-right: solid 1px var(--secondary-color);
-	border-left: solid 1px var(--secondary-color);
 }
 .button-14-BFJ.enabled-2cQ-u7:hover {
 	background-color: var(--secondary-color-transparent);
@@ -773,6 +772,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	height: 34px;
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
+	border-left: 0;
 }
 .theme-dark .searchBar-3dMhjb, .theme-dark .container-cMG81i, .theme-dark .container-2XeR5Z {
 	background-color: var(--secondary-color-transparent);
