@@ -819,6 +819,13 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .theme-dark .container-3gCOGc {
 	background-color: var(--main-color);
 }
+.tabBar-1E2ExX .item-3HpYcP[style="background-color: rgb(67, 181, 129); color: rgb(255, 255, 255);"] {
+        background-color: var(--secondary-color) !important;
+        border-radius: 0;
+}
+.tabBar-1E2ExX .item-3HpYcP[style="background-color: rgb(67, 181, 129); color: rgb(255, 255, 255);"]:hover {
+        background-color: var(--accent-color) !important;
+}
 .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track {
         background-color: var(--main-color);
 }
