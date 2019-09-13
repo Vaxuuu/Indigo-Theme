@@ -902,6 +902,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	background-color: var(--secondary-color);
 	border: solid 1px var(--accent-color);
 	border-radius: 0;
+	margin-top: 15px;
 }
 .theme-dark .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover {
 	background-color: var(--accent-color);
@@ -936,6 +937,15 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .theme-dark .installationPath-24giJj {
 	box-shadow: none !important;
+}
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
+	border-top-color: var(--secondary-color);
+}
+
+/*x*/
+.theme-dark .close-1kwMUs:hover {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
 }
 
 /*Settings and games tab*/
