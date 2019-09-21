@@ -1,8 +1,8 @@
 # Indigo
-A dark purple theme that you can customize! Not compatible with light mode.
+A dark purple theme that you can customize! Not compatible with light mode. Make sure you enable normalized classes in settings!
 
-# Latest Update - 2.7.3
-Fixed the theme after Discord fucked it without consent
+# Latest Update - 2.7.4
+Fixed the scrollers
 
 Latest "Hidden" Update (too small to make it into a new version) - changed the dm header
 
