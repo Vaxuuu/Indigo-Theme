@@ -253,6 +253,11 @@
         background-color: var(--accent-color-transparent);
 }
 
+/*Scroller fix*/
+.da-scroller, .contentRegion-3nDuYy, .layer-3QrUeG.baseLayer-35bLyl, .contentRegionScroller-26nc1e {
+        background: var(--main-color);
+}
+
 /*Server Name, Channel List*/
 .popout-2iWAc- {
 	border-radius: 0;
