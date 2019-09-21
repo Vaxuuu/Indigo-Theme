@@ -254,7 +254,7 @@
 }
 
 /*Scroller fix*/
-.da-scroller, .contentRegion-3nDuYy, .layer-3QrUeG.baseLayer-35bLyl, .contentRegionScroller-26nc1e, .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
+.da-scroller, .contentRegion-3nDuYy, .layer-3QrUeG.baseLayer-35bLyl, .contentRegionScroller-26nc1e, .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6, .theme-dark .messagesPopout-24nkyi {
         background: var(--main-color);
 	background-color: var(--main-color);
 }
