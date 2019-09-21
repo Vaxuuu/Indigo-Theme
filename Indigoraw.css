@@ -254,8 +254,9 @@
 }
 
 /*Scroller fix*/
-.da-scroller, .contentRegion-3nDuYy, .layer-3QrUeG.baseLayer-35bLyl, .contentRegionScroller-26nc1e {
+.da-scroller, .contentRegion-3nDuYy, .layer-3QrUeG.baseLayer-35bLyl, .contentRegionScroller-26nc1e, .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
         background: var(--main-color);
+	background-color: var(--main-color);
 }
 
 /*Server Name, Channel List*/
