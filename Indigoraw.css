@@ -220,6 +220,15 @@
 	background-color: var(--accent-color);
 }
 
+/*Join stream pop-up*/
+.theme-dark .previewHover-1tGzfF, .theme-dark .streamPreview-2-WUWT {
+	background-color: var(--main-color);
+}
+.theme-dark .streamPreview-2-WUWT {
+	border-radius: 0;
+	border: solid 1px var(--secondary-color);
+}
+
 /*Server Folders*/
 .theme-dark .expandedFolderBackground-2sPsd- {
         background-color: var(--secondary-color-transparent) !important;
@@ -748,6 +757,9 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .privateChannels-1nO12o .scrollerWrap-2lJEkd {
         border-right: solid 1px var(--secondary-color);
 }
+.friendsTable-133bsv .friendsTableBody-1ZhKif {
+	background-color: var(--main-color);
+}
 .scrollerWrap-2lJEkd {
 	background-color: var(--main-color);
 }
@@ -774,6 +786,12 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 {
 	background-color: var(--accent-color-transparent);
 }
+.tabBar-1E2ExX .item-3HpYcP[style="background-color: rgba(67, 181, 129, 0.2); color: rgb(67, 181, 129);"] {
+        background-color: var(--accent-color-transparent) !important;
+        border-radius: 0;
+        color: var(--accent-color) !important;
+}	
+   
 .searchBar-6Kv8R2 {
 	height: 34px;
 	background-color: var(--main-color);
