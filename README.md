@@ -4,7 +4,7 @@ A dark purple theme that you can customize! Not compatible with light mode. Make
 # Latest Update - 2.7.4
 Fixed the scrollers
 
-Latest "Hidden" Update (too small to make it into a new version) - changed the dm header
+Latest "Hidden" Update (too small to make it into a new version) - fixed the friends tab
 
 # How to edit
 
