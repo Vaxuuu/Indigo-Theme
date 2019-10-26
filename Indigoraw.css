@@ -133,13 +133,14 @@
 }
 
 /*Button Margins*/
-.lookFilled-1Gx00P.colorRed-1TFJan, .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookFilled-1Gx00P.colorBrand-3pXr91, .lookLink-9FtZy-.colorRed-1TFJan, .modal-yWgWj- .lookFilled-1Gx00P.colorGreen-29iAKY, .premiumContainer-2Iux5m .lookFilled-1Gx00P.colorGreen-29iAKY {
+.lookFilled-1Gx00P.colorRed-1TFJan, .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookFilled-1Gx00P.colorBrand-3pXr91, .lookLink-9FtZy-.colorRed-1TFJan, .modal-yWgWj- .lookFilled-1Gx00P.colorGreen-29iAKY, .premiumContainer-2Iux5m .lookFilled-1Gx00P.colorGreen-29iAKY, .cancelButton-2O3h8t {
         margin-top: 15px;
 }
 .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr .friendsTableAdd-1w2_qZ .lookFilled-1Gx00P.colorBrand-3pXr91 {
 	margin-top: 0px !important;
 }
-/*Role search pop-out in ]*/
+
+/*Role search pop-out in user tab*/
 .theme-dark .popoutList-T9CKZQ {
         background-color: var(--main-color);
         border: solid 1px var(--secondary-color);
@@ -157,6 +158,19 @@
         box-shadow: none !important;
 }
 
+/*Custom status settings*/
+.theme-dark .lookFilled-1h1y05.select-1Pkeg4:focus {
+	border: solid 1px var(--secondary-color);
+	border-radius: 0;
+}
+.theme-dark .popout-2sKjHu {
+	border-color: var(--secondary-color);
+	background: var(--main-color);
+}
+.theme-dark .optionActive-KkAdqq, .theme-dark .optionNormal-12VR9V:hover {
+	background-color: var(--secondary-color-transparent);
+}
+	
 /*Notification Settings*/
 .theme-dark .notificationsSound-27jFSh {
 	box-shadow: none !important;
