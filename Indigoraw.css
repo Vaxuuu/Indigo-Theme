@@ -140,6 +140,11 @@
 	margin-top: 0px !important;
 }
 
+/*server boost tab*/
+.theme-dark .perksModal-fSYqOq {
+	background-color: var(--main-color);
+}
+
 /*Role search pop-out in user tab*/
 .theme-dark .popoutList-T9CKZQ {
         background-color: var(--main-color);
