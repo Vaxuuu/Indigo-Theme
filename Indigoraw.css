@@ -249,6 +249,10 @@
 	border-radius: 0;
 	border: solid 1px var(--secondary-color);
 }
+.panel-24C3ux {
+	background-color: var(--secondary-color);
+	border: 0;
+}
 
 /*Server Folders*/
 .theme-dark .expandedFolderBackground-2sPsd- {
