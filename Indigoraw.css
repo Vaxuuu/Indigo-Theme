@@ -158,6 +158,15 @@
         border-radius: 0;
 }
 
+/*Create new DM thinG:))*/
+.theme-dark .friendSelected-1sa4bG {
+	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
+}
+.theme-dark .separator-3gy7tq {
+	box-shadow: 0;
+}
+
 /*Box shadow for last member/ban in server settings*/
 .theme-dark .bannedUser-1IalTM, .theme-dark .member-1q7VfX {
         box-shadow: none !important;
