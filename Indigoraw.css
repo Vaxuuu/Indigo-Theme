@@ -805,7 +805,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
         background-color: var(--secondary-color);
 }
 .privateChannels-1nO12o header {
-	margin-left: 8px;
+	margin-left: 5px;
 	padding-top: 9px;
 	background: linear-gradient(var(--accent-color-transparent), var(--secondary-color-transparent));
 	text-align: center;
