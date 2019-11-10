@@ -166,6 +166,9 @@
 .theme-dark .separator-3gy7tq {
 	box-shadow: 0;
 }
+.lookFilled-1Gx00P.colorBrand-3pXr91:active {
+	background-color: var(--accent-color);
+}
 
 /*Box shadow for last member/ban in server settings*/
 .theme-dark .bannedUser-1IalTM, .theme-dark .member-1q7VfX {
