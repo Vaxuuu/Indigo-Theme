@@ -229,9 +229,6 @@
 	background-color: var(--main-color);
 	border: solid 1px var(--secondary-color);
 }
-.theme-dark .wrapper-1Rf91z {
-        border-right:0;
-}
 .theme-dark .friendsOnline-2JkivW, .theme-light .friendsOnline-2JkivW {
         color: white;
 }
