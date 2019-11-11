@@ -127,6 +127,11 @@
 	background-color: var(--secondary-color);
 }
 
+/*damn borders*/
+.privateChannels-1nO12o, .theme-dark .container-3baos1, .container-PNkimc {
+        border-left: solid 1px var(--secondary-color);
+}
+
 /*That one (actually two) gray bit(s) that has been bothering me for months but I've only just now decided to fix*/
 .platform-win .base-3dtUhz, .theme-dark .wrapper-1Rf91z, .platform-win .sidebar-2K8pFh {
 	border-radius: 0;
