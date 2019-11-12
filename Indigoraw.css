@@ -861,6 +861,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .theme-dark .friendsTable-133bsv .friendsRow-2yicud:hover {
 	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
 }
 .theme-dark .friendsTable-133bsv .friendsTableHeader-32yE7d {
 	background-color: var(--main-color);
@@ -1459,6 +1460,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .theme-dark .listRow-hutiT_:hover {
 	background-color: var(--secondary-color-transparent);
+	border-radius: 0;
 }
 .theme-dark .note-3kmerW textarea, .theme-dark .note-3kmerW textarea:focus {
 	background-color: var(--secondary-color-transparent);
