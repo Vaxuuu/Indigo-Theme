@@ -635,12 +635,13 @@
 .flex-spacer {
 	background-color: var(--main-color);
 }
-.theme-dark .embedPill-1Zntps {
-	background-color: var(--secondary-color) !important;
-	border-radius: 0;
+.grid-1nZz7S {
+        background-color: var(--main-color);
+        border: solid 1px var(--secondary-color);
 }
-.theme-dark .embedInner-1-fpTo {
-	border-radius: 0;
+.embedFull-2tM8--[style="border-color: rgb(255, 0, 0); max-width: 432px;"], .embedFull-2tM8-- {
+        border-color: var(--accent-color) !important;
+        border-radius: 0;
 }
 .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
         content: 'BetterDocs is not an official source of themes and plugins\a and should not be trusted. The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs.';
