@@ -4,7 +4,7 @@ A dark purple theme that you can customize! Not compatible with light mode. Make
 # Latest Update - 2.7.4
 Fixed the scrollers
 
-Latest "Hidden" Update (too small to make it into a new version) - themed the server boost page
+Latest "Hidden" Update (too small to make it into a new version) - fixed the file upload pop-up
 
 # How to edit
 
