@@ -1521,11 +1521,11 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .uploadModal-2ifh8j .footer-3mqk7D {
 	background-color: var(--main-color);
+	border-top: solid 1px var(--secondary-color);
 }
-.uploadModal-2ifh8j .inner-3nWsbo, .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
+.uploadModal-2ifh8j .inner-3nWsbo, .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j, .theme-dark .uploadModal-2ifh8j {
 	background-color: var(--main-color);
 	border-radius: 0;
-	border-bottom: solid 1px var(--secondary-color);
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary:hover{
 	background-color: var(--secondary-color);
