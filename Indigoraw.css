@@ -1503,11 +1503,11 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
     padding: 0;
 }
 .role-2irmRk, .roleCircleButton-377y0l, .member-perms .member-perm .perm-circle, .roleCircle-3xAZ1j {
-    border-radius: 0;
+    border-radius: 0 !important;
 }
 .roleCircle-3xAZ1j, .member-perms .member-perm .perm-circle {
-    height: 20px;
-    width: 9px;
+    height: 20px !important;
+    width: 9px !important;
 }
 .addButton-pcyyf6 {
     padding: 5px;
