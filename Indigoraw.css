@@ -694,6 +694,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
  .theme-dark .markup-2BOw-j code  {
 	background-color: var(--main-color);
+	border: 0;
 }
 .theme-dark .markup-2BOw-j code.inline {
 	border-radius: 0;
@@ -1000,6 +1001,9 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .theme-dark .item-3eFBNF {
 	box-shadow: none !important;
 	border-bottom: solid 1px var(--secondary-color);
+}
+.dividerContent-2L12VI:after, .dividerContent-2L12VI:before {
+	background-color: transparent;
 }
 .theme-dark .installationPath-24giJj {
 	box-shadow: none !important;
