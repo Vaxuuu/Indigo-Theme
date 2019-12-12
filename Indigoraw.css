@@ -845,7 +845,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border: solid 1px var(--secondary-color);
 	border-left: 0;
 }
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx, .searchBar-3dMhjb {
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color);
 	border-radius: 0;
