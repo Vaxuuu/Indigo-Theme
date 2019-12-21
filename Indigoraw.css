@@ -558,12 +558,16 @@
 .attachButtonDivider-3Glu60 {
 	background-color: var(--accent-color-transparent);
 }
+.attachWrapper-2TRKBi {
+	border-color: var(--accent-color-transparent);
+}
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
         border-radius: 0;
 }
-.theme-dark .inner-zqa7da {
+.scrollableContainer-2NUZem {
 	left: 10px;
 	margin-right: 20px;
+	margin-left: 20px;
 	border-radius: 0;
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color) !important;
