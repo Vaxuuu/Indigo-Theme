@@ -572,6 +572,11 @@
 	background-color: var(--secondary-color-transparent);
 	border: solid 1px var(--accent-color) !important;
 }
+.inner-2P4tQO {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
 .children-19S4PO:after {
         display: none;
 }
