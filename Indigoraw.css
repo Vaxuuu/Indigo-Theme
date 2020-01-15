@@ -642,6 +642,7 @@
 }
 .dividerRed-MKoLlr .dividerContent-2L12VI:after, .dividerRed-MKoLlr .dividerContent-2L12VI:before {
 	background-color: transparent;
+	border-color: transparent;
 }
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
 	background-color: var(--secondary-color-transparent);
