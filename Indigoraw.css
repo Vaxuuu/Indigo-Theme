@@ -112,6 +112,16 @@
         border-radius: 0;
 }
 
+/*Plugin pop-outs*/
+.theme-dark .popout-xwjvsX .themedPopout-1TrfdI {
+	border-color: var(--secondary-color);
+}
+.container-cMG81i {
+	background-color: var(--secondary-color-transparent);
+	border: solid 1px var(--accent-color);
+	border-radius: 0;
+}
+
 /*Direct Download plugin*/
 #files_directDownload .file .progress-bar {
         background-color: var(--secondary-color);
@@ -554,6 +564,9 @@
 }
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
 	background-color: var(--main-color);
+}
+.fakeLink-26oLcc {
+	color: var(--accent-color);
 }
 .attachButtonDivider-3Glu60 {
 	background-color: var(--accent-color-transparent);
