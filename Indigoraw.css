@@ -554,7 +554,8 @@
 	background-color: var(--main-color);
 	margin: 0;
 	top: 9px;
-	border-top-color: var(--secondary-color);
+	height: 96px;
+	border-top: solid 1px var(--secondary-color);
 }
 .scrollableContainer-38zsVD {
 	background-color: var(--main-color);
@@ -594,7 +595,8 @@
         display: none;
 }
 .theme-dark .channelTextArea-rNsIhG {
-	top: 2px;
+	top: 20px !important;
+	background-color: var(--main-color);
 }
 .embedLink-1G1K1D[href*="://betterdocs." i],
 .containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i] {
@@ -631,12 +633,42 @@
 .theme-dark .messagesWrapper-3lZDfY {
 	background-color: var(--main-color);
 }
-.theme-dark .dividerEnabled-2TTlcf, .theme-dark .divider-3FBTu8{
-	background-color: var(--secondary-color-transparent);
+.messageGroupWrapper-o-Zw7G {
+        background: var(--main-color);
 }
-.theme-dark .divider-3gKybi.dividerRed-MKoLlr>span {
-	background-color: transparent;
-	color: var(--accent-color);
+.form-2fGMdU:before {
+        background: transparent;
+}
+.theme-dark .chat-3bRxxu form {
+        height: 96px;
+        border-top: solid 1px var(--secondary-color);
+}
+.content-1o0f9g {
+        background-color: var(--secondary-color-transparent);
+        border-radius: 0;
+        border: solid 1px var(--accent-color);
+}
+.divider-JfaTT5 {
+        border-color: var(--secondary-color-transparent);
+}
+.isUnread-3Ef-o9 {
+        border-color: var(--accent-color);
+}
+.unreadPill-2HyYtt {
+        border-radius: 0;
+        background-color: var(--accent-color);
+        width: 50px;
+}
+.unreadPillCap-3_K2q2 {
+        display: none;
+}
+.wrapper-2aW0bm {
+        border-radius: 0;
+        background-color: var(--main-color);
+        border: solid 1px var(--secondary-color);
+}
+.button-1ZiXG9:hover, .separator-42rNt0 {
+        background-color: var(--secondary-color-transparent);
 }
 .theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6 {
         border-radius: 0;
