@@ -56,13 +56,12 @@
 	background-color: var(--accent-color);
 }
 .mentioned-xhSam7 {
-	background-color: var(--accent-color-transparent);
+	background-color: var(--secondary-color-transparent);
 	border-radius: 0;
 }
-.theme-dark .isMentioned-N-h9aa .mention:hover {
-	color: var(--accent-color);
+.message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .mentioned-xhSam7:hover {
+	background-color: var(--accent-color-transparent);
 }
-
 /*Quote blocks*/
 .theme-dark .blockquoteDivider-2hH8H6 { 
 	border-radius: 0;
