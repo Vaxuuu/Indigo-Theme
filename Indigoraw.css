@@ -678,8 +678,7 @@
         border-color: var(--accent-color); 
 }
 .theme-dark .wrapper-35wsBm {
-        border-radius: 0;
-        border-color: var(--secondary-color);
+        border: solid 1px var(--secondary-color);
         background-color: var(--main-color);
 }
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI {
