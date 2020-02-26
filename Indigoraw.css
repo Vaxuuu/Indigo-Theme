@@ -679,6 +679,7 @@
 }
 .theme-dark .wrapper-35wsBm {
         border: solid 1px var(--secondary-color);
+	border-radius: 0;
         background-color: var(--main-color);
 }
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI {
