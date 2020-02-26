@@ -564,6 +564,9 @@
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
 	background-color: var(--main-color);
 }
+.hasAutocomplete-2vGV2Z .scrollableContainer-2NUZem {
+	border-radius: 0;
+}
 .fakeLink-26oLcc {
 	color: var(--accent-color);
 }
@@ -844,6 +847,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .theme-dark .wrapper-3WhCwL {
 	background-color: var(--accent-color-transparent);
 	color: var(--accent-color);
+	border-radius: 0;
 }
 .theme-dark .wrapper-3WhCwL:hover {
 	color: white;
