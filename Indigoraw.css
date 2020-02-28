@@ -549,9 +549,6 @@
 /*Chat*/
 .theme-dark .chat-3bRxxu form{
 	background-color: var(--main-color);
-	margin: 0;
-	top: 9px;
-	height: 96px;
 	border-top: solid 1px var(--secondary-color);
 }
 .scrollableContainer-38zsVD {
@@ -595,7 +592,7 @@
         display: none;
 }
 .theme-dark .channelTextArea-rNsIhG {
-	top: 20px !important;
+	margin-top: 17px;
 	background-color: var(--main-color);
 }
 .embedLink-1G1K1D[href*="://betterdocs." i],
@@ -604,13 +601,11 @@
         font-weight: bold;
         pointer-events: none;
 }
-
 .theme-dark .textArea-2Spzkt::-webkit-scrollbar {
 	display: none;
 }
 .theme-dark .typing-2GQL18 {
 	background-color: transparent;
-	left: 10px;
 }
 .theme-dark .header-1TOWci {
 	background-color: var(--main-color);
@@ -638,10 +633,6 @@
 }
 .form-2fGMdU:before {
         background: transparent;
-}
-.theme-dark .chat-3bRxxu form {
-        height: 96px;
-        border-top: solid 1px var(--secondary-color);
 }
 .content-1o0f9g {
         background-color: var(--secondary-color-transparent);
