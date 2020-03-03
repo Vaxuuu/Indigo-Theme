@@ -11,8 +11,8 @@ Latest "Hidden" Update (too small to make it into a new version) - fixed the fil
 Just simply edit the colors in the :root! Preferably add semi-transparent versions using rgba in the transparent ones.
  
 # Quick Preview
-![My Image](https://cdn.discordapp.com/attachments/477916496673112066/603709142099558402/Discord_20e0KPh2Wj.png)
-![My Image](https://cdn.discordapp.com/attachments/477916496673112066/570576880533766154/Discord_4vqTwfviNJ.png)
+![My Image](https://cdn.discordapp.com/attachments/345705169234821121/684479781139513380/Discord_YQ89xkBgFK.png)
+![My Image](https://cdn.discordapp.com/attachments/345705169234821121/684479771375304814/Discord_GQPyVHWOAw.png)
 ![My Image](https://cdn.discordapp.com/attachments/477916496673112066/570576878457585664/Discord_lio080YMP6.png)
 
 # How to set a background image
