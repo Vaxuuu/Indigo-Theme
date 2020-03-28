@@ -1266,8 +1266,8 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 .checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span:after {
         border-color: var(--accent-color);
 }
-.theme-dark .checked-3_4uQ9 svg[name="Checkmark"] polyline {
-	stroke: var(--accent-color);
+.theme-dark .checkbox-1ix_J3[style='width: 24px; height: 24px; border-color: rgb(114, 137, 218);'] polyline {
+    stroke: var(--accent-color);
 }
 .theme-dark .checkbox-3kaeSU .checkboxInner-3yjcPe span {
 	border: 0;
@@ -1312,10 +1312,21 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border: solid 1px var(--secondary-color);
 	border-radius: 0;
 }
-.theme-dark .bda-slist li {
-	background-color: var(--main-color) !important;
-	border: solid 1px var(--secondary-color) !important;
-	border-radius: 0;
+.preview-2nSL_2 {
+	background-color: var(--main-color);
+}
+.theme-dark .bd-addon-list .bd-addon-card {
+    background-color: var(--main-color);
+    border: solid 1px var(--secondary-color);
+    border-radius: 0;
+}
+.theme-dark .bd-addon-list .bda-header, .theme-dark .bd-addon-list .bd-card-footer {
+    border-color: var(--secondary-color-transparent);
+}
+.bd-search-wrapper {
+    border: solid 1px var(--accent-color);
+    border-radius: 0;
+    background-color: var(--secondary-color-transparent);
 }
 .theme-dark .auditLog-3jNbM6 {
 	border-color: var(--secondary-color);
