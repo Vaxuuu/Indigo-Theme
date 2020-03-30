@@ -282,6 +282,9 @@
 .theme-dark .audio-2KA0-x:after, .theme-dark .video-2jNDI4:after {
 	background-color: var(--accent-color);
 }
+.scroller-2TZvBN {
+	background-color: var(--main-color);
+}
 
 /*Join stream pop-up*/
 .theme-dark .previewHover-1tGzfF, .theme-dark .streamPreview-2-WUWT {
@@ -578,7 +581,7 @@
 .attachWrapper-1_D-pj {
 	border-color: var(--secondary-color);
 }
-.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .messages-3amgkR {
 	background-color: var(--main-color);
 }
 .hasAutocomplete-2vGV2Z .scrollableContainer-2NUZem {
