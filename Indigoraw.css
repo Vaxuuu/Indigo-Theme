@@ -172,6 +172,10 @@
 .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr .friendsTableAdd-1w2_qZ .lookFilled-1Gx00P.colorBrand-3pXr91 {
 	margin-top: 0px !important;
 }
+.theme-dark .modal-yWgWj- .lookFilled-1Gx00P.colorBrand-3pXr91 {
+	margin-top: 0px !important;
+}
+	
 
 /*server boost tab*/
 .theme-dark .perksModal-fSYqOq {
@@ -599,7 +603,7 @@
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
         border-radius: 0;
 }
-.scrollableContainer-2NUZem {
+.scrollableContainer-2NUZem, .searchBar-1Vaz-O .searchBarComponent-yxeVIL {
 	left: 10px;
 	margin-right: 20px;
 	margin-left: 20px;
@@ -1110,6 +1114,15 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 }
 .theme-dark .headerCell-3L6rFG {
 	border-color: var(--secondary-color-transparent);
+}
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color: var(--main-color);
+}
+.videoGridWrapper-2BDlMX {
+	border-bottom: solid 1px var(--secondary-color)
+}
+.border-3dQmSY {
+	border-radius: 0;
 }
 
 /*Dumb dividers*/
