@@ -1271,7 +1271,7 @@ body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdiscordlibrary.
 	border-color: var(--secondary-color);
 	border-radius: 0;
 }
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-24hCdX.valueChecked-m-4IJZ {
+.bd-switch-checked {
 	background-color: var(--secondary-color) !important;
 }
 .itemToggle-S7XGOQ .checkbox-3EVISJ {
