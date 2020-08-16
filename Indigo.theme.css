@@ -13,6 +13,47 @@
 	--accent-color-transparent: rgba(148,0,211,0.4); /*Responsible for the same things as in --accent-color*/
 }
 
+.sidebarRegionScroller-3MXcoP {
+    background-color: var(--main-color);
+}
+.content-3YMskv {
+    background-color: var(--main-color);
+}
+.member-3-YXUe {
+    background-color: var(--main-color);
+}
+.members-1998pB{
+    background-color: var(--main-color);
+}
+.da-members{
+    background-color: var(--main-color);
+}
+.thin-1ybCId{
+    background-color: var(--main-color);
+}
+.scrollerBase-289Jih{
+    background-color: var(--main-color);
+}
+.fade-2kXiP2{
+    background-color: var(--main-color);
+}
 
+.membersGroup-v9BXpm{
+    background-color: var(--main-color);
+}
 
+.da-membersGroup {
+    background-color: var(--main-color);
+}
 
+.container-2ax-kl {
+   background-color: var(--main-color);
+}
+
+.da-container{
+    background-color: var(--main-color);
+}
+
+.members-1998pB>div {
+    background-color: var(--main-color);
+}
